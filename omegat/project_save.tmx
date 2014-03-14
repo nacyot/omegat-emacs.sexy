@@ -232,6 +232,31 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emacs
+      for Mac OS X</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T170507Z" creationid="nacyot" creationdate="20140314T170507Z">
+        <seg>Mac OS X를 위한 이맥스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs Mac Por</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T170557Z" creationid="nacyot" creationdate="20140314T170557Z">
+        <seg>Emacs Mac Port.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs Mac Port.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T170635Z" creationid="nacyot" creationdate="20140314T170630Z">
+        <seg>이맥스 맥 포트(Emacs Mac Port.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emacs Movies</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T163201Z" creationid="nacyot" creationdate="20140314T163201Z">
@@ -374,6 +399,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T162112Z" creationid="nacyot" creationdate="20140314T162112Z">
         <seg>이맥스 설치하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install using Homebrew.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T170520Z" creationid="nacyot" creationdate="20140314T170520Z">
+        <seg>홈브류(Homebrew)를 사용해 설치하세요.</seg>
       </tuv>
     </tu>
     <tu>
@@ -733,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.emacswiki.org/emacs/EmacsForMacOS</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T170636Z" creationid="nacyot" creationdate="20140314T170636Z">
+        <seg>http://www.emacswiki.org/emacs/EmacsForMacOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.emacswiki.org/emacs/MicroEmacs</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T164319Z" creationid="nacyot" creationdate="20140314T164319Z">
@@ -777,6 +818,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T162908Z" creationid="nacyot" creationdate="20140314T162908Z">
         <seg>https://github.com/picandocodigo/emacs.sexy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://github.com/railwaycat/emacs-mac-port</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T170521Z" creationid="nacyot" creationdate="20140314T170521Z">
+        <seg>https://github.com/railwaycat/emacs-mac-port</seg>
       </tuv>
     </tu>
     <tu>
