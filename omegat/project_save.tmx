@@ -134,6 +134,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;c0&gt;ERC&lt;/c0&gt; is a built-in IRC client and &lt;c1&gt;BitlBee&lt;/c1&gt; can be used as a gateway for several IM services.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174531Z" creationid="nacyot" creationdate="20140314T174531Z">
+        <seg>&lt;c0&gt;ERC&lt;/c0&gt;는 빌트인 IRC 클라이언트이며, &lt;c1&gt;BitlBee&lt;/c1&gt;는 몇몇 메신저 서비스를 이맥스 안에서 사용할 수 있게해줍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;Tramp&lt;/c0&gt; allows you to edit remote files without leaving Emacs.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174431Z" creationid="nacyot" creationdate="20140314T174431Z">
+        <seg>&lt;c0&gt;Tramp&lt;/c0&gt;는 이맥스에서 원격지의 파일을 편집할 수 있게 도와줍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Guido van Rossum&lt;/s0&gt; created the Python programming language.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T164704Z" creationid="nacyot" creationdate="20140314T164646Z">
@@ -547,6 +563,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It's just the tip of the iceberg, and your quest has just begun.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174648Z" creationid="nacyot" creationdate="20140314T174648Z">
+        <seg>튜토리얼은 빙산의 일각에 불과합니다. 이제부터가 정말 시작입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It's not called the &lt;e0&gt; self-documenting real-time display editor&lt;/e0&gt; for nothing.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T172216Z" creationid="nacyot" creationdate="20140314T172216Z">
@@ -724,6 +748,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This interactive tutorial will teach you the basics on how to move around and edit text.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174615Z" creationid="nacyot" creationdate="20140314T174615Z">
+        <seg>이 인터렉티브 튜토리얼은 이맥스에서 커서를 어떻게 이동시키고 텍스트를 어떻게 편집하는지 알려줍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a work in progress, please help me improve it by forking it &lt;a1&gt;on GitHub&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T162905Z" creationid="nacyot" creationdate="20140314T162905Z">
@@ -810,6 +842,22 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T171734Z" creationid="nacyot" creationdate="20140314T171734Z">
         <seg>윈도우에서 사용할 수 있는 이맥스는 &lt;a0&gt;GNU 서버&lt;/a0&gt;에서 내려받을 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can edit files via SSH and edit local files with su/sudo, among other things.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174454Z" creationid="nacyot" creationdate="20140314T174454Z">
+        <seg>SSH를 통해서 파일을 편집할 수 있고 로컬 파일을 su/sudo를 사용해 편집할 수 있게 합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can even create HTML websites like this one or export to your documents as LaTeX, Beamer, OpenDocuments and many more formats.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174405Z" creationid="nacyot" creationdate="20140314T174405Z">
+        <seg>이 사이트와 같은 HTML 사이트를 만들 수 있을 뿐만 아니라 작성한 문서를 LaTeX, Beamer, OpenDocument 등 다양한 포맷으로 만들 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
