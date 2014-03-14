@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_3" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>#_why</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161720Z" creationid="nacyot" creationdate="20140314T161720Z">
+        <seg>#_why</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#be-free</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161828Z" creationid="nacyot" creationdate="20140314T161828Z">
+        <seg>#be-free</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#installing</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161727Z" creationid="nacyot" creationdate="20140314T161705Z">
+        <seg>#installing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#learn</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161757Z" creationid="nacyot" creationdate="20140314T161757Z">
+        <seg>#learn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#resources</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161818Z" creationid="nacyot" creationdate="20140314T161818Z">
+        <seg>#resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(and awesome).</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162103Z" creationid="nacyot" creationdate="20140314T162103Z">
+        <seg>(물론 잘 만들어졌다는 것도).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be free</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161829Z" creationid="nacyot" creationdate="20140314T161829Z">
+        <seg>Be freeBe free</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162601Z" creationid="nacyot" creationdate="20140314T162601Z">
+        <seg>다운로드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download
+      Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162424Z" creationid="nacyot" creationdate="20140314T162424Z">
+        <seg>이맥스 다운로드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161832Z" creationid="nacyot" creationdate="20140314T161832Z">
+        <seg>이맥스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs is a &lt;s0&gt;text editor&lt;/s0&gt; which you can customize and extend in so many ways.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161859Z" creationid="nacyot" creationdate="20140314T161859Z">
+        <seg>이맥스는 다양한 방법으로 확장하고 커스터마이징 가능한 &lt;s0&gt;텍스트 에디터&lt;/s0&gt;입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs is sexy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161638Z" creationid="nacyot" creationdate="20140314T161638Z">
+        <seg>Emacs is sexy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs is sexy!</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161700Z" creationid="nacyot" creationdate="20140314T161700Z">
+        <seg>Emacs is sexy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNU Emacs is available on most GNU/Linux distributions.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162443Z" creationid="nacyot" creationdate="20140314T162443Z">
+        <seg>GNU 이맥스는 거의 모든 GNU/Linux 배포판을 지원합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNU/Linux</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162209Z" creationid="nacyot" creationdate="20140314T162209Z">
+        <seg>GNU/Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162112Z" creationid="nacyot" creationdate="20140314T162112Z">
+        <seg>이맥스 설치하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161710Z" creationid="nacyot" creationdate="20140314T161710Z">
+        <seg>이맥스 설치하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161804Z" creationid="nacyot" creationdate="20140314T161800Z">
+        <seg>이맥스 배우기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162641Z" creationid="nacyot" creationdate="20140314T162641Z">
+        <seg>맥 OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161823Z" creationid="nacyot" creationdate="20140314T161820Z">
+        <seg>자료</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The officially supported systems are GNU, GNU/Linux, FreeBSD, NetBSD, OpenBSD, Mac OS X, MS Windows and Solaris.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162204Z" creationid="nacyot" creationdate="20140314T162204Z">
+        <seg>이맥스는 공식적으로 GNU, GNU/Linux, FreeBSD, NetBSD, OpenBSD, Mac OS X, MS Windows, Solaris를 지원합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why Emacs?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161749Z" creationid="nacyot" creationdate="20140314T161749Z">
+        <seg>왜 이맥스인가?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162502Z" creationid="nacyot" creationdate="20140314T162502Z">
+        <seg>윈도우</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can install Emacs on almost every operating system out there.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162208Z" creationid="nacyot" creationdate="20140314T162141Z">
+        <seg>대부분의 운영체제에서 이맥스를 설치하고 사용할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>css/style.css</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161639Z" creationid="nacyot" creationdate="20140314T161639Z">
+        <seg>css/style.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://gnu.c3sl.ufpr.br/ftp/emacs/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162210Z" creationid="nacyot" creationdate="20140314T162210Z">
+        <seg>http://gnu.c3sl.ufpr.br/ftp/emacs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://gnu.c3sl.ufpr.br/ftp/emacs/windows/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162503Z" creationid="nacyot" creationdate="20140314T162503Z">
+        <seg>http://gnu.c3sl.ufpr.br/ftp/emacs/windows/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://jtnimoy.net/workviewer.php?q=178</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161913Z" creationid="nacyot" creationdate="20140314T161913Z">
+        <seg>http://jtnimoy.net/workviewer.php?q=178</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.gnu.org/software/emacs/manual/html_mono/efaq-w32.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162635Z" creationid="nacyot" creationdate="20140314T162635Z">
+        <seg>https://www.gnu.org/software/emacs/manual/html_mono/efaq-w32.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://xkcd.com/224/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161836Z" creationid="nacyot" creationdate="20140314T161836Z">
+        <seg>https://xkcd.com/224/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>img/emacs-icon.png</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162113Z" creationid="nacyot" creationdate="20140314T162113Z">
+        <seg>img/emacs-icon.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>img/emacs-logo.png</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162105Z" creationid="nacyot" creationdate="20140314T162105Z">
+        <seg>img/emacs-logo.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>img/emacs-title.png</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161701Z" creationid="nacyot" creationdate="20140314T161701Z">
+        <seg>img/emacs-title.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>img/emacs.png</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161834Z" creationid="nacyot" creationdate="20140314T161834Z">
+        <seg>img/emacs.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>img/favicon.png</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161640Z" creationid="nacyot" creationdate="20140314T161640Z">
+        <seg>img/favicon.png</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_3" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>#_why</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161720Z" creationid="nacyot" creationdate="20140314T161720Z">
+        <seg>#_why</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#be-free</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161828Z" creationid="nacyot" creationdate="20140314T161828Z">
+        <seg>#be-free</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#installing</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161727Z" creationid="nacyot" creationdate="20140314T161705Z">
+        <seg>#installing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#learn</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161757Z" creationid="nacyot" creationdate="20140314T161757Z">
+        <seg>#learn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#resources</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161818Z" creationid="nacyot" creationdate="20140314T161818Z">
+        <seg>#resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(and awesome).</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162103Z" creationid="nacyot" creationdate="20140314T162103Z">
+        <seg>(물론 잘 만들어졌다는 것도).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt; Planet Emacsen&lt;/a0&gt; — An Emacs planet collecting posts from many Emacs blogs.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163639Z" creationid="nacyot" creationdate="20140314T163614Z">
+        <seg>&lt;a0&gt;Planet Emacsen&lt;/a0&gt; — 이맥스와 관련된 블로그들의 기사를 수집하는 사이트</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;/r/emacs&lt;/a0&gt; — Reddit is a virtual community of (generally) very nice people.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163251Z" creationid="nacyot" creationdate="20140314T163101Z">
+        <seg>&lt;a0&gt;/r/emacs&lt;/a0&gt; — 레딧은 뛰어난 사람들이 모여있는 가상 커뮤니티입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Emacs Movies&lt;/a0&gt; — Tutorial screencasts for Emacs.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163248Z" creationid="nacyot" creationdate="20140314T163217Z">
+        <seg>&lt;a0&gt;이맥스 무비(Emacs Movies)&lt;/a0&gt; — 이맥스 튜토리얼 스크린캐스트</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Emacs Rocks&lt;/a0&gt; — a series of videos teaching about Emacs.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163748Z" creationid="nacyot" creationdate="20140314T163748Z">
+        <seg>&lt;a0&gt;Emacs Rocks&lt;/a0&gt; — 이맥스 소개를 위한 튜토리얼 비디오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Emacs Wiki&lt;/a0&gt; — a collection of useful information regarding Emacs and Emacs Lisp, its extension language.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163540Z" creationid="nacyot" creationdate="20140314T163540Z">
+        <seg>&lt;a0&gt;Eamcs Wiki&lt;/a0&gt; — 이맥스와 이맥스 리스프(Lisp)에 관련된 유용한 정보를 다루는 위키</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Mastering Emacs&lt;/a0&gt; — A blog about mastering the world's best text editor.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163717Z" creationid="nacyot" creationdate="20140314T163717Z">
+        <seg>&lt;a0&gt;이맥스 마스터하기(Mastering Emacs&lt;/a0&gt; — 세계 최강 텍스트 에디터의 수련법을 다루는 블로그</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;The Emacs Manual&lt;/a0&gt; — Official GNU Emacs manual.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163420Z" creationid="nacyot" creationdate="20140314T163420Z">
+        <seg>&lt;a0&gt;이맥스 매뉴얼(The Emacs Manual)&lt;/a0&gt; — 공식 GNU 이맥스 매뉴얼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;What the .emacs.d!?&lt;/a0&gt; — Blog from the same author as Emacs Rocks, about setting up your .emacs.d.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163356Z" creationid="nacyot" creationdate="20140314T163356Z">
+        <seg>&lt;a0&gt;What the .emacs.d!?&lt;/a0&gt; — Emacs Rocks을 만든 분의 .emacs.d 설정을 다루는 블로그</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Guido van Rossum&lt;/s0&gt; created the Python programming language.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T164704Z" creationid="nacyot" creationdate="20140314T164646Z">
+        <seg>&lt;s0&gt;반도 귀 로썸&lt;/s0&gt;. 파이썬 프로그래밍 언어를 만든 프로그래머.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Jim Weirich&lt;/s0&gt; was a well known rubyist, creator of Rake (Ruby make) among other tools.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T164751Z" creationid="nacyot" creationdate="20140314T164702Z">
+        <seg>&lt;s0&gt;Jim Weirich&lt;/s0&gt;. 루비스트로 유명하며 Rake(루비의 make)와 다른 툴들을 만든 프로그래머.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Julian Assange&lt;/s0&gt; founder of WikiLeaks.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T164810Z" creationid="nacyot" creationdate="20140314T164748Z">
+        <seg>&lt;s0&gt;Julian Assange&lt;/s0&gt; 위키 리크스(WikiLeaks) 설립자.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Linus Torvalds&lt;/s0&gt; creator of Linux and Git uses uEmacs, a &lt;a1&gt;MicroEmacs&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T164711Z" creationid="nacyot" creationdate="20140314T164606Z">
+        <seg>&lt;s0&gt;리누스 토발즈(Linus Torvalds)&lt;/s0&gt;. 리눅스와 깃의 아버지. uEmacs라는 &lt;a1&gt;마이크로 이맥스&lt;/a1&gt;를 사용한다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Richard Stallman&lt;/s0&gt; creator of GNU Emacs, founder of the Free Software Movement.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T164911Z" creationid="nacyot" creationdate="20140314T164852Z">
+        <seg>&lt;s0&gt;리처드 스톨만&lt;/s0&gt;. GNU 이맥스를 만들었고 자유 소프트 운동을 시작한 프로그래머이다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Yukihiro Matsumoto (Matz)&lt;/s0&gt; created the Ruby programming language.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T164708Z" creationid="nacyot" creationdate="20140314T164629Z">
+        <seg>&lt;s0&gt;유키히로 마츠모토 (Matz)&lt;/s0&gt;. 루비 프로그래밍 언어를 만든 프로그래머</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A great resource for starters is this visual guide to learning Emacs by &lt;a0&gt;Sacha Chua&lt;/a0&gt; under a &lt;e1&gt;&lt;a2&gt;CC by&lt;/a2&gt; license&lt;/e1&gt;: &lt;a3&gt;How to Learn Emacs: A Hand-drawn One-pager for Beginners&lt;/a3&gt;: &lt;a4&gt; &lt;i5/&gt; &lt;/a4&gt; You can also check out these other visual guides:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163839Z" creationid="nacyot" creationdate="20140314T163839Z">
+        <seg>A great resource for starters is this visual guide to learning Emacs by &lt;a0&gt;Sacha Chua&lt;/a0&gt; under a &lt;e1&gt;&lt;a2&gt;CC by&lt;/a2&gt; license&lt;/e1&gt;: &lt;a3&gt;How to Learn Emacs: A Hand-drawn One-pager for Beginners&lt;/a3&gt;: &lt;a4&gt; &lt;i5/&gt; &lt;/a4&gt; You can also check out these other visual guides:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be free</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161829Z" creationid="nacyot" creationdate="20140314T161829Z">
+        <seg>Be freeBe free</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creative Commons</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163856Z" creationid="nacyot" creationdate="20140314T163856Z">
+        <seg>Creative Commons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162601Z" creationid="nacyot" creationdate="20140314T162601Z">
+        <seg>다운로드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download
+      Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162424Z" creationid="nacyot" creationdate="20140314T162424Z">
+        <seg>이맥스 다운로드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161832Z" creationid="nacyot" creationdate="20140314T161832Z">
+        <seg>이맥스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs
+                                                     Subreddit</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163156Z" creationid="nacyot" creationdate="20140314T163156Z">
+        <seg>이맥스 서브 레딧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs Movies</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163201Z" creationid="nacyot" creationdate="20140314T163201Z">
+        <seg>이맥스 무비</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs Rocks</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163728Z" creationid="nacyot" creationdate="20140314T163726Z">
+        <seg>이맥스 락(Emacs Rocks)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs is a &lt;s0&gt;text editor&lt;/s0&gt; which you can customize and extend in so many ways.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161859Z" creationid="nacyot" creationdate="20140314T161859Z">
+        <seg>이맥스는 다양한 방법으로 확장하고 커스터마이징 가능한 &lt;s0&gt;텍스트 에디터&lt;/s0&gt;입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs is sexy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161638Z" creationid="nacyot" creationdate="20140314T161638Z">
+        <seg>Emacs is sexy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs is sexy!</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161700Z" creationid="nacyot" creationdate="20140314T161700Z">
+        <seg>Emacs is sexy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs is used by lots of happy users around the globe.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T164953Z" creationid="nacyot" creationdate="20140314T164953Z">
+        <seg>이맥스는 전세계의 많은 사람들이 행복하게 사용하고 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs package archives</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165008Z" creationid="nacyot" creationdate="20140314T165001Z">
+        <seg>이맥스 패키지 아카이브</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EmacsWiki</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163441Z" creationid="nacyot" creationdate="20140314T163441Z">
+        <seg>이맥스위키(EmacsWiki)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Famous Emacs Users</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T164920Z" creationid="nacyot" creationdate="20140314T164920Z">
+        <seg>유명한 이맥스 사용자들</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNU Emacs is available on most GNU/Linux distributions.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162443Z" creationid="nacyot" creationdate="20140314T162443Z">
+        <seg>GNU 이맥스는 거의 모든 GNU/Linux 배포판을 지원합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNU/Linux</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162209Z" creationid="nacyot" creationdate="20140314T162209Z">
+        <seg>GNU/Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to
+          Learn Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165301Z" creationid="nacyot" creationdate="20140314T165301Z">
+        <seg>이맥스 배우는 방법</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to Learn
+      Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165255Z" creationid="nacyot" creationdate="20140314T165255Z">
+        <seg>이맥스 배우는 방법</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to learn Emacs keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165320Z" creationid="nacyot" creationdate="20140314T165320Z">
+        <seg>이맥스 단축키 익히기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to learn Emacs keyboard shortcuts (a visual tutorial for newbies)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165341Z" creationid="nacyot" creationdate="20140314T165341Z">
+        <seg>이맥스 단축키 익히기(뉴비를 위한 시각적 튜토리얼)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Includes a series on extending it.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163806Z" creationid="nacyot" creationdate="20140314T163806Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162112Z" creationid="nacyot" creationdate="20140314T162112Z">
+        <seg>이맥스 설치하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161710Z" creationid="nacyot" creationdate="20140314T161710Z">
+        <seg>이맥스 설치하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161804Z" creationid="nacyot" creationdate="20140314T161800Z">
+        <seg>이맥스 배우기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162641Z" creationid="nacyot" creationdate="20140314T162641Z">
+        <seg>맥 OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mastering
+                                                          Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163645Z" creationid="nacyot" creationdate="20140314T163645Z">
+        <seg>이맥스 마스터하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Planet Emacsen</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163625Z" creationid="nacyot" creationdate="20140314T163558Z">
+        <seg>이맥시안 플래닛(Planet Emacsen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161823Z" creationid="nacyot" creationdate="20140314T161820Z">
+        <seg>자료</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See more manuals &lt;a1&gt;here&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163432Z" creationid="nacyot" creationdate="20140314T163432Z">
+        <seg>더 많은 매뉴얼을 찾는다면 &lt;a1&gt;여기&lt;/a1&gt;에 방문해주세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some "famous" Emacs users are:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T164314Z" creationid="nacyot" creationdate="20140314T164314Z">
+        <seg>유명한 이맥스 사용자들:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some tips for learning Org Mode for Emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165425Z" creationid="nacyot" creationdate="20140314T165359Z">
+        <seg>이맥스 Org 모드 학습을 위한 팁(Some tips for learing Org Mode for Emacs)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Emacs Manual</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165453Z" creationid="nacyot" creationdate="20140314T165453Z">
+        <seg>이맥스 매뉴얼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The officially supported systems are GNU, GNU/Linux, FreeBSD, NetBSD, OpenBSD, Mac OS X, MS Windows and Solaris.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162204Z" creationid="nacyot" creationdate="20140314T162204Z">
+        <seg>이맥스는 공식적으로 GNU, GNU/Linux, FreeBSD, NetBSD, OpenBSD, Mac OS X, MS Windows, Solaris를 지원합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are &lt;a0&gt;more than 2,000&lt;/a0&gt; packages for Emacs.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165127Z" creationid="nacyot" creationdate="20140314T165127Z">
+        <seg>이맥스 패키지 아카이브에는 &lt;a0&gt;2000개 이상의&lt;/a0&gt; 패키지가 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a work in progress, please help me improve it by forking it &lt;a1&gt;on GitHub&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162905Z" creationid="nacyot" creationdate="20140314T162905Z">
+        <seg>이 페이지는 작성중입니다. 문서를 개선하고자 하시면 &lt;a1&gt;Github&lt;/a1&gt;에서 저장소를 포크해주세요!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website created by &lt;a0&gt;picandocodigo&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162944Z" creationid="nacyot" creationdate="20140314T162944Z">
+        <seg>이 페이지는 &lt;a0&gt;picandocodigo&lt;/a0&gt;에 의해서 제작되었으며 nacyot에 의해 한국어로 번역되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What the
+                                                     .emacs.d!?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163303Z" creationid="nacyot" creationdate="20140314T163303Z">
+        <seg>What the
+                                                     .emacs.d!?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why Emacs?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161749Z" creationid="nacyot" creationdate="20140314T161749Z">
+        <seg>왜 이맥스인가?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162502Z" creationid="nacyot" creationdate="20140314T162502Z">
+        <seg>윈도우</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also use mail client, web browser, calendar, games, even edit video and images inside Emacs.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165111Z" creationid="nacyot" creationdate="20140314T165108Z">
+        <seg>이맥스는 메일 클라이언트, 웹 브라우저, 캘린더, 게임으로 사용할 수 있으며 심지어 비디오나 이미지를 편집할 수도 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create an account there and share your questions, progress and snippets about Emacs on the Emacs subreddit.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163152Z" creationid="nacyot" creationdate="20140314T163135Z">
+        <seg>이맥스 서브 레딧에서 이맥스 대한 정보들을 공유할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can install Emacs on almost every operating system out there.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162208Z" creationid="nacyot" creationdate="20140314T162141Z">
+        <seg>대부분의 운영체제에서 이맥스를 설치하고 사용할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can install more packages with &lt;c1&gt;M-x list-packages&lt;/c1&gt; from &lt;a2&gt;GNU ELPA&lt;/a2&gt;, &lt;a3&gt;MELPA&lt;/a3&gt; and &lt;a4&gt;Marmelade&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165208Z" creationid="nacyot" creationdate="20140314T165208Z">
+        <seg>&lt;c1&gt;M-x list-packages&lt;/c1&gt; 명령어로 &lt;a2&gt;GNU ELPA&lt;/a2&gt;, &lt;a3&gt;MELPA&lt;/a3&gt;, &lt;a4&gt;Marmelade&lt;/a4&gt;에서 사용하고자하는 패키지를 설치할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>be free.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163811Z" creationid="nacyot" creationdate="20140314T163811Z">
+        <seg>be free.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>css/style.css</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161639Z" creationid="nacyot" creationdate="20140314T161639Z">
+        <seg>css/style.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://bruce-connor.github.io/emacs-archive-tracker/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165212Z" creationid="nacyot" creationdate="20140314T165212Z">
+        <seg>http://bruce-connor.github.io/emacs-archive-tracker/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://elpa.gnu.org/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165009Z" creationid="nacyot" creationdate="20140314T165009Z">
+        <seg>http://elpa.gnu.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://emacsmovies.org/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162951Z" creationid="nacyot" creationdate="20140314T162951Z">
+        <seg>http://emacsmovies.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://emacsrocks.com/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163719Z" creationid="nacyot" creationdate="20140314T163719Z">
+        <seg>http://emacsrocks.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://gnu.c3sl.ufpr.br/ftp/emacs/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162210Z" creationid="nacyot" creationdate="20140314T162210Z">
+        <seg>http://gnu.c3sl.ufpr.br/ftp/emacs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://gnu.c3sl.ufpr.br/ftp/emacs/windows/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162503Z" creationid="nacyot" creationdate="20140314T162503Z">
+        <seg>http://gnu.c3sl.ufpr.br/ftp/emacs/windows/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://jtnimoy.net/workviewer.php?q=178</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161913Z" creationid="nacyot" creationdate="20140314T161913Z">
+        <seg>http://jtnimoy.net/workviewer.php?q=178</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://marmalade-repo.org/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165012Z" creationid="nacyot" creationdate="20140314T165012Z">
+        <seg>http://marmalade-repo.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://melpa.milkbox.net/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165009Z" creationid="nacyot" creationdate="20140314T165009Z">
+        <seg>http://melpa.milkbox.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://orgmode.org/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163906Z" creationid="nacyot" creationdate="20140314T163906Z">
+        <seg>http://orgmode.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://picandocodigo.net</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162908Z" creationid="nacyot" creationdate="20140314T162908Z">
+        <seg>http://picandocodigo.net</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://planet.emacsen.org/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163542Z" creationid="nacyot" creationdate="20140314T163542Z">
+        <seg>http://planet.emacsen.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://reddit.com/r/emacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163001Z" creationid="nacyot" creationdate="20140314T163001Z">
+        <seg>http://reddit.com/r/emacs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sachachua.com</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163858Z" creationid="nacyot" creationdate="20140314T163858Z">
+        <seg>http://sachachua.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163853Z" creationid="nacyot" creationdate="20140314T163853Z">
+        <seg>http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sachachua.com/blog/2013/09/how-to-learn-emacs-keyboard-shortcuts-a-visual-tutorial-for-newbies/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163841Z" creationid="nacyot" creationdate="20140314T163841Z">
+        <seg>http://sachachua.com/blog/2013/09/how-to-learn-emacs-keyboard-shortcuts-a-visual-tutorial-for-newbies/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://sachachua.com/blog/2014/01/tips-learning-org-mode-emacs/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163850Z" creationid="nacyot" creationdate="20140314T163850Z">
+        <seg>http://sachachua.com/blog/2014/01/tips-learning-org-mode-emacs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://whattheemacsd.com/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163357Z" creationid="nacyot" creationdate="20140314T163357Z">
+        <seg>http://whattheemacsd.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.emacswiki.org/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163434Z" creationid="nacyot" creationdate="20140314T163434Z">
+        <seg>http://www.emacswiki.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.emacswiki.org/emacs/MicroEmacs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T164319Z" creationid="nacyot" creationdate="20140314T164319Z">
+        <seg>http://www.emacswiki.org/emacs/MicroEmacs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.gnu.org/software/emacs/manual/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163403Z" creationid="nacyot" creationdate="20140314T163403Z">
+        <seg>http://www.gnu.org/software/emacs/manual/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.masteringemacs.org/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163640Z" creationid="nacyot" creationdate="20140314T163640Z">
+        <seg>http://www.masteringemacs.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://creativecommons.org/licenses/by/3.0/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163855Z" creationid="nacyot" creationdate="20140314T163855Z">
+        <seg>https://creativecommons.org/licenses/by/3.0/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://github.com/picandocodigo/emacs.sexy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162908Z" creationid="nacyot" creationdate="20140314T162908Z">
+        <seg>https://github.com/picandocodigo/emacs.sexy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.gnu.org/software/emacs/manual/html_mono/efaq-w32.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162635Z" creationid="nacyot" creationdate="20140314T162635Z">
+        <seg>https://www.gnu.org/software/emacs/manual/html_mono/efaq-w32.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://xkcd.com/224/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161836Z" creationid="nacyot" creationdate="20140314T161836Z">
+        <seg>https://xkcd.com/224/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>img/How-to-Learn-Emacs-v2-Large.png</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T165303Z" creationid="nacyot" creationdate="20140314T165303Z">
+        <seg>img/How-to-Learn-Emacs-v2-Large.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>img/How-to-Learn-Emacs-v2-thumb.jpg</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T163838Z" creationid="nacyot" creationdate="20140314T163838Z">
+        <seg>img/How-to-Learn-Emacs-v2-thumb.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>img/emacs-icon.png</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162113Z" creationid="nacyot" creationdate="20140314T162113Z">
+        <seg>img/emacs-icon.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>img/emacs-logo.png</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162105Z" creationid="nacyot" creationdate="20140314T162105Z">
+        <seg>img/emacs-logo.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>img/emacs-title.png</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161701Z" creationid="nacyot" creationdate="20140314T161701Z">
+        <seg>img/emacs-title.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>img/emacs.png</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161834Z" creationid="nacyot" creationdate="20140314T161834Z">
+        <seg>img/emacs.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>img/favicon.png</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T161640Z" creationid="nacyot" creationdate="20140314T161640Z">
+        <seg>img/favicon.png</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
