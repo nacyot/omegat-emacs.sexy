@@ -207,6 +207,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download &lt;a0&gt;Emacs for Mac OS X&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T170155Z" creationid="nacyot" creationdate="20140314T170155Z">
+        <seg>&lt;a0&gt;Mac OS X를 위한 이맥스&lt;/a0&gt;를 다운로드 받아주세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emacs</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T161832Z" creationid="nacyot" creationdate="20140314T161832Z">
