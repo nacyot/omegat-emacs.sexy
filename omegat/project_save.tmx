@@ -48,8 +48,8 @@
       <tuv lang="EN">
         <seg>(and awesome).</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T162103Z" creationid="nacyot" creationdate="20140314T162103Z">
-        <seg>(물론 잘 만들어졌다는 것도).</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T175420Z" creationid="nacyot" creationdate="20140314T162103Z">
+        <seg>(물론 뛰어나기도 하고요).</seg>
       </tuv>
     </tu>
     <tu>
@@ -389,6 +389,15 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T165536Z" creationid="nacyot" creationdate="20140314T165536Z">
         <seg>이맥스는 전 세계의 행복한 해커들이 사용하고 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs on
+      Tron Legacy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T175339Z" creationid="nacyot" creationdate="20140314T175339Z">
+        <seg>Tron Legacy의 이맥스</seg>
       </tuv>
     </tu>
     <tu>
@@ -764,6 +773,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There's a reason why Emacs was &lt;a0&gt;featured in Tron Legacy&lt;/a0&gt;, it is sexy!</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T175403Z" creationid="nacyot" creationdate="20140314T175403Z">
+        <seg>Tron Legacy에 이맥스가 나온 데는 다 이유가 있습니다. 이맥스는 섹시하니까요!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This interactive tutorial will teach you the basics on how to move around and edit text.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T174615Z" creationid="nacyot" creationdate="20140314T174615Z">
@@ -890,6 +907,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T165208Z" creationid="nacyot" creationdate="20140314T165208Z">
         <seg>&lt;c1&gt;M-x list-packages&lt;/c1&gt; 명령어로 &lt;a2&gt;GNU ELPA&lt;/a2&gt;, &lt;a3&gt;MELPA&lt;/a3&gt;, &lt;a4&gt;Marmelade&lt;/a4&gt;에서 사용하고자하는 패키지를 설치할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use Emacs for all of your text processing needs, internet and social network interactions, hacking, coding, managing to-do's and organizing your daily schedule, play Tetris and it can even provide you with free psychotherapy and counseling using &lt;c0&gt;M-x doctor&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T175543Z" creationid="nacyot" creationdate="20140314T175543Z">
+        <seg>이맥스는 텍스트 편집은 물론 인터넷, 소셜 네트워크, 해킹, 코딩, TODO 리스트 관리, 일정 관리, 테트리스 심지어는 심리치료와 카운셀링을 위해 &lt;c0&gt;M-x doctor&lt;/c0&gt;을 사용할 수도 있습니다</seg>
       </tuv>
     </tu>
     <tu>
