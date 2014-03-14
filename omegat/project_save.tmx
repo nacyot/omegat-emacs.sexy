@@ -209,8 +209,8 @@
       <tuv lang="EN">
         <seg>Download &lt;a0&gt;Emacs for Mac OS X&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T170155Z" creationid="nacyot" creationdate="20140314T170155Z">
-        <seg>&lt;a0&gt;Mac OS X를 위한 이맥스&lt;/a0&gt;를 다운로드 받아주세요.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T170730Z" creationid="nacyot" creationdate="20140314T170155Z">
+        <seg>&lt;a0&gt;Mac OS X 이맥스&lt;/a0&gt;를 다운로드 받아주세요.</seg>
       </tuv>
     </tu>
     <tu>
@@ -235,8 +235,8 @@
         <seg>Emacs
       for Mac OS X</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T170507Z" creationid="nacyot" creationdate="20140314T170507Z">
-        <seg>Mac OS X를 위한 이맥스</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T170728Z" creationid="nacyot" creationdate="20140314T170507Z">
+        <seg>Mac OS X 이맥스</seg>
       </tuv>
     </tu>
     <tu>
@@ -269,6 +269,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T163728Z" creationid="nacyot" creationdate="20140314T163726Z">
         <seg>이맥스 락(Emacs Rocks)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs for Mac OS</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T170724Z" creationid="nacyot" creationdate="20140314T170724Z">
+        <seg>Mac OS 이맥스</seg>
       </tuv>
     </tu>
     <tu>
@@ -456,6 +464,22 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T163645Z" creationid="nacyot" creationdate="20140314T163645Z">
         <seg>이맥스 마스터하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mastering Emacs is not the goal, it's the path.&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T171043Z" creationid="nacyot" creationdate="20140314T171043Z">
+        <seg>이맥스를 마스터하는 일은 목표가 아니라 과정이다.&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More info &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T171017Z" creationid="nacyot" creationdate="20140314T171017Z">
+        <seg>더 자세한 정보는 &lt;a0&gt;이맥스 위키&lt;/a0&gt;를 참조해주세요.</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +922,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T161640Z" creationid="nacyot" creationdate="20140314T161640Z">
         <seg>img/favicon.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg> — A happy Emacs user</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T171050Z" creationid="nacyot" creationdate="20140314T171050Z">
+        <seg> — 어느 행복한 이맥스 사용자</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
