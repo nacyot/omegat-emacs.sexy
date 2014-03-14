@@ -457,6 +457,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Get used to it, because there's more where that came from.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T175112Z" creationid="nacyot" creationdate="20140314T175112Z">
+        <seg>이런 명령어 실행은 자주 사용되므로 친숙해지시길 바랍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to
           Learn Emacs</seg>
       </tuv>
@@ -527,6 +535,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T161710Z" creationid="nacyot" creationdate="20140314T161710Z">
         <seg>이맥스 설치하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was written in C and provides its own implementation of &lt;s1&gt;Lisp&lt;/s1&gt;, &lt;a2&gt; the language from which &lt;e3&gt;the Gods wrought the universe&lt;/e3&gt;&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T175330Z" creationid="nacyot" creationdate="20140314T175330Z">
+        <seg>이맥스는 C로 쓰여졌으며 자체적인 &lt;s1&gt;Lisp&lt;/s1&gt; 언어 구현을 가지고 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +906,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T172518Z" creationid="nacyot" creationdate="20140314T172518Z">
         <seg>수많은 이맥스 명령어 중에 첫 명령어를 실행했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You know the warm fuzzies you just got?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T175042Z" creationid="nacyot" creationdate="20140314T175042Z">
+        <seg>어떻게 느껴지시나요?</seg>
       </tuv>
     </tu>
     <tu>
