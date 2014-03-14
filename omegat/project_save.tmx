@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;a1&gt;Org mode&lt;/a1&gt;&lt;/c0&gt; helps you keeping notes, maintaining TODO lists, planing projects and authoring documents.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174318Z" creationid="nacyot" creationdate="20140314T174318Z">
+        <seg>&lt;c0&gt;&lt;a1&gt;Org mode&lt;/a1&gt;&lt;/c0&gt;는 노트를 적고 TODO 리스트를 관리, 프로젝트 관리, 문서 관리를 도와줍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Guido van Rossum&lt;/s0&gt; created the Python programming language.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T164704Z" creationid="nacyot" creationdate="20140314T164646Z">
@@ -385,6 +393,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Et tu, Programmer?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174031Z" creationid="nacyot" creationdate="20140314T174031Z">
+        <seg>Et tu, Programmer?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Famous Emacs Users</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T164920Z" creationid="nacyot" creationdate="20140314T164920Z">
@@ -547,6 +563,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lisp, Ruby, Python, PHP, Java, Erlang, JavaScript, C, C++, Prolog, Tcl, AWK, PostScript, Clojure, Scala, Perl, Haskell, Elixir all of these languages and more are supported in Emacs.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174117Z" creationid="nacyot" creationdate="20140314T174117Z">
+        <seg>Lisp, Ruby, Python, PHP, Java, Erlang, JavaScript, C, C++, Prolog, Tcl, AWK, PostScript, Clojure, Scala, Perl, Haskell, Elixir 등등 열거한 언어는 물론이고 이 외의 언어들도 지원하고 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lots of them are willing to help you get started or share the path they've walked along Emacs with you.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T165727Z" creationid="nacyot" creationdate="20140314T165727Z">
@@ -592,6 +616,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T171017Z" creationid="nacyot" creationdate="20140314T171017Z">
         <seg>더 자세한 정보는 &lt;a0&gt;이맥스 위키&lt;/a0&gt;를 참조해주세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More!</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174242Z" creationid="nacyot" creationdate="20140314T174242Z">
+        <seg>이외에도 다양한 기능들을 지원합니다!</seg>
       </tuv>
     </tu>
     <tu>
@@ -676,6 +708,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are tools for probably every programming language out there.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174054Z" creationid="nacyot" creationdate="20140314T174054Z">
+        <seg>거의 모든 프로그래밍 언어를 위한 도구들이 준비되어 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are various ways to install the latest Emacs on Mac OS X:</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T171456Z" creationid="nacyot" creationdate="20140314T171456Z">
@@ -742,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can &lt;a0&gt;strip it&lt;/a0&gt;, choose between several themes with &lt;c1&gt;M-x load-theme&lt;/c1&gt;, download one from another happy Emacs user or create your own.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174030Z" creationid="nacyot" creationdate="20140314T174030Z">
+        <seg>이맥스를 &lt;a0&gt;발가벗길 수&lt;/a0&gt;도 있을 뿐 아니라 &lt;c1&gt;M-x load-theme&lt;/c1&gt; 명령어로 다른 사람이 만든 테마를 불러 올 수 있습니다. 물론 직접 만들수도 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also use mail client, web browser, calendar, games, even edit video and images inside Emacs.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T165111Z" creationid="nacyot" creationdate="20140314T165108Z">
@@ -778,6 +826,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T165208Z" creationid="nacyot" creationdate="20140314T165208Z">
         <seg>&lt;c1&gt;M-x list-packages&lt;/c1&gt; 명령어로 &lt;a2&gt;GNU ELPA&lt;/a2&gt;, &lt;a3&gt;MELPA&lt;/a3&gt;, &lt;a4&gt;Marmelade&lt;/a4&gt;에서 사용하고자하는 패키지를 설치할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You get syntax highlighting, automatic indentation, running code inside the editor, debugging, code browsing, version control systems integration and much more.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T174235Z" creationid="nacyot" creationdate="20140314T174235Z">
+        <seg>문법 강조(Syntax highlighting)는 물론, 자동 들여쓰기, 에디터 안에서 코드 실행하기, 디버깅, 코드 탐색, 버전 컨트롤 시스템을 사용할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
