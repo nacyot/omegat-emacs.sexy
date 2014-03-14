@@ -491,6 +491,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It's a very powerful text processor, allowing you to manipulate blocks of text, paragraphs, words, finding, replacing, using regular expressions, keyboard macros and more.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172858Z" creationid="nacyot" creationdate="20140314T172858Z">
+        <seg>이맥스는 블럭, 문단, 단어, 검색, 치환, 정규표현식과 다양한 키보드 매크로를 사용할 수 있는 매우 강력한 텍스트 에디터입니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It's available out of the box on some of them.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T171602Z" creationid="nacyot" creationdate="20140314T171602Z">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T161749Z" creationid="nacyot" creationdate="20140314T161749Z">
         <seg>왜 이맥스인가?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why using Emacs?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172817Z" creationid="nacyot" creationdate="20140314T172817Z">
+        <seg>왜 이맥스인가요?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +1026,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T170521Z" creationid="nacyot" creationdate="20140314T170521Z">
         <seg>https://github.com/railwaycat/emacs-mac-port</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.gnu.org/philosophy/free-sw.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172810Z" creationid="nacyot" creationdate="20140314T172810Z">
+        <seg>https://www.gnu.org/philosophy/free-sw.html</seg>
       </tuv>
     </tu>
     <tu>
