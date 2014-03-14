@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Instead of using your mouse&lt;/s0&gt;, you can press &lt;c1&gt;Alt + X&lt;/c1&gt; on your keyboard, which will take you to the &lt;e2&gt;command mode&lt;/e2&gt; on the lower screen of Emacs.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172446Z" creationid="nacyot" creationdate="20140314T172446Z">
+        <seg>&lt;s0&gt;마우스를 사용하는 대신에&lt;/s0&gt; &lt;c1&gt;Alt + X&lt;/c1&gt; 키를 눌러 이맥스 화면 아래 쪽의 &lt;e2&gt;명령어 버퍼&lt;/e2&gt;를 사용할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Jim Weirich&lt;/s0&gt; was a well known rubyist, creator of Rake (Ruby make) among other tools.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T164751Z" creationid="nacyot" creationdate="20140314T164702Z">
@@ -369,6 +377,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From there you can click on the &lt;e0&gt;Emacs Tutorial&lt;/e0&gt; link with your mouse.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172401Z" creationid="nacyot" creationdate="20140314T172401Z">
+        <seg>이 페이지에서 마우스로 &lt;e0&gt;Emacs Tutorial&lt;/e0&gt; 링크를 클릭합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNU Emacs is &lt;s0&gt;Free Software&lt;/s0&gt;, free as in free beer and free as in free speech.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172757Z" creationid="nacyot" creationdate="20140314T172757Z">
+        <seg>GNU Emacs는 &lt;s0&gt;자유 소프트웨어&lt;/s0&gt;이며 @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GNU Emacs is available on most GNU/Linux distributions.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T171542Z" creationid="nacyot" creationdate="20140314T162443Z">
@@ -548,6 +572,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you've installed Emacs, start it up.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172316Z" creationid="nacyot" creationdate="20140314T172316Z">
+        <seg>이맥스를 설치하고 실행해주세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Planet Emacsen</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T163625Z" creationid="nacyot" creationdate="20140314T163558Z">
@@ -600,6 +632,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T162204Z" creationid="nacyot" creationdate="20140314T162204Z">
         <seg>이맥스는 공식적으로 GNU, GNU/Linux, FreeBSD, NetBSD, OpenBSD, Mac OS X, MS Windows, Solaris를 지원합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then write &lt;c3&gt;help-with-tutorial&lt;/c3&gt; and press Enter.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172500Z" creationid="nacyot" creationdate="20140314T172500Z">
+        <seg>그리고 &lt;c3&gt;help-with-tutorial&lt;/c3&gt;이라고 입력해주세ㅛㅇ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +746,22 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T165208Z" creationid="nacyot" creationdate="20140314T165208Z">
         <seg>&lt;c1&gt;M-x list-packages&lt;/c1&gt; 명령어로 &lt;a2&gt;GNU ELPA&lt;/a2&gt;, &lt;a3&gt;MELPA&lt;/a3&gt;, &lt;a4&gt;Marmelade&lt;/a4&gt;에서 사용하고자하는 패키지를 설치할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You just entered the first of many Emacs commands.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172518Z" creationid="nacyot" creationdate="20140314T172518Z">
+        <seg>수많은 이맥스 명령어 중에 첫 명령어를 실행했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be greeted with a welcome screen.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172340Z" creationid="nacyot" creationdate="20140314T172340Z">
+        <seg>환영 페이지가 여러분을 반겨줍니다.</seg>
       </tuv>
     </tu>
     <tu>
