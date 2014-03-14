@@ -289,6 +289,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emacs is included in Mac OS X, so you can just use Terminal.app, type &lt;c0&gt;emacs&lt;/c0&gt; and you're ready to roll.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T171359Z" creationid="nacyot" creationdate="20140314T171359Z">
+        <seg>이맥스는 Mac OS X에 기본적으로 포함되어있습니다. Terminal.app을 실행시키고 &lt;c0&gt;emacs&lt;/c0&gt; 명령어를 실행시켜주세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emacs is sexy</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T161638Z" creationid="nacyot" creationdate="20140314T161638Z">
@@ -347,8 +355,8 @@
       <tuv lang="EN">
         <seg>GNU Emacs is available on most GNU/Linux distributions.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T162443Z" creationid="nacyot" creationdate="20140314T162443Z">
-        <seg>GNU 이맥스는 거의 모든 GNU/Linux 배포판을 지원합니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T171542Z" creationid="nacyot" creationdate="20140314T162443Z">
+        <seg>GNU 이맥스는 거의 모든 GNU/Linux 배포판에서 사용 가능합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -423,6 +431,22 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T161710Z" creationid="nacyot" creationdate="20140314T161710Z">
         <seg>이맥스 설치하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It's a very old version though, and it's recommended that you use the latest stable version which is Emacs 24.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T171437Z" creationid="nacyot" creationdate="20140314T171437Z">
+        <seg>하지만 이는 오래된 버전일 가능성이 많습니다. 최신 안정 버전인 이맥스 24 사용을 권장합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It's available out of the box on some of them.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T171602Z" creationid="nacyot" creationdate="20140314T171602Z">
+        <seg>몇몇 시스템에서는 emacs 명령어로 바로 사용할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -548,6 +572,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are various ways to install the latest Emacs on Mac OS X:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T171456Z" creationid="nacyot" creationdate="20140314T171456Z">
+        <seg>Mac OS X에서 이맥스를 설치하는 다양한 방법이 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a work in progress, please help me improve it by forking it &lt;a1&gt;on GitHub&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T162905Z" creationid="nacyot" creationdate="20140314T162905Z">
@@ -650,6 +682,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T165009Z" creationid="nacyot" creationdate="20140314T165009Z">
         <seg>http://elpa.gnu.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://emacsformacosx.com/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T171457Z" creationid="nacyot" creationdate="20140314T171457Z">
+        <seg>http://emacsformacosx.com/</seg>
       </tuv>
     </tu>
     <tu>
