@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Colorful text editor</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T173712Z" creationid="nacyot" creationdate="20140314T173712Z">
+        <seg>화려한 텍스트 에디터</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creative Commons</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T163856Z" creationid="nacyot" creationdate="20140314T163856Z">
@@ -285,6 +293,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T163728Z" creationid="nacyot" creationdate="20140314T163726Z">
         <seg>이맥스 락(Emacs Rocks)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emacs can be adapted in every possible way, including its looks.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T173735Z" creationid="nacyot" creationdate="20140314T173735Z">
+        <seg>이맥스는 어느 부분이건 원하는대로 다룰 수 있습니다. 당연히 외관도 마찬가지입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,6 +826,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T165212Z" creationid="nacyot" creationdate="20140314T165212Z">
         <seg>http://bruce-connor.github.io/emacs-archive-tracker/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://bzg.fr/emacs-strip-tease.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T173706Z" creationid="nacyot" creationdate="20140314T173706Z">
+        <seg>http://bzg.fr/emacs-strip-tease.html</seg>
       </tuv>
     </tu>
     <tu>
