@@ -289,6 +289,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emacs includes a great tutorial to &lt;s1&gt;teach you how to use Emacs while you're using Emacs&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172237Z" creationid="nacyot" creationdate="20140314T172237Z">
+        <seg>이맥스는 이맥스를 사용하는 동안에 어떻게 이맥스 사용법을 알려주기 위한 훌륭한 튜토리얼을 내장하고 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emacs is a &lt;s0&gt;text editor&lt;/s0&gt; which you can customize and extend in so many ways.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T161859Z" creationid="nacyot" creationdate="20140314T161859Z">
@@ -475,6 +483,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It's not called the &lt;e0&gt; self-documenting real-time display editor&lt;/e0&gt; for nothing.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172216Z" creationid="nacyot" creationdate="20140314T172216Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Learn Emacs</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T161804Z" creationid="nacyot" creationdate="20140314T161800Z">
@@ -512,6 +528,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T171043Z" creationid="nacyot" creationdate="20140314T171043Z">
         <seg>이맥스를 마스터하는 일은 목표가 아니라 과정이다.&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mind blown?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T172241Z" creationid="nacyot" creationdate="20140314T171820Z">
+        <seg>놀라셨나요?</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,6 +624,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T162905Z" creationid="nacyot" creationdate="20140314T162905Z">
         <seg>이 페이지는 작성중입니다. 문서를 개선하고자 하시면 &lt;a1&gt;Github&lt;/a1&gt;에서 저장소를 포크해주세요!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is just the beginning.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T171826Z" creationid="nacyot" creationdate="20140314T171826Z">
+        <seg>이건 시작에 불과합니다.</seg>
       </tuv>
     </tu>
     <tu>
