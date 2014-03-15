@@ -10,6 +10,7 @@ env:
   - secure: hdhbnwjpRLko8zVfjt9MPkrpSnyNYKncIbzcUcvvM8GWgDFKbwl/xlqkuE8XKXPb0LA8Z4eC6B5BYDZkf51lv+3cU9iJr8X4IAOPPjMZdJk6sySafFUStolgh+myuKMTYorHNbkFcViwYFMQU7XD50xWm6l2lgKu2qR9ax00Xdg=
 before_install:
   - sudo apt-get install -qq openjdk-6-jdk omegat
+  - sudo gem install nokogiri
 before_script:
   - rm -rf target
   - mkdir -p tm/auto
@@ -23,6 +24,8 @@ script:
 after_success:
   - rm -rf ./target/.git
   - cp -r ./website/.git ./target/.git
+  - rake rewrite_cname
+  - rake add_links
   - cd target
   - git checkout gh-pages
   - git add --all .
