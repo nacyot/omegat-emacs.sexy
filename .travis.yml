@@ -17,7 +17,8 @@ before_script:
   - git clone https://github.com/nacyot/sexy.emacs.kr.git website
 script:
   - ls -al
-  - java -jar /usr/share/omegat/OmegaT.jar . --mode=console-translate
+  - /usr/lib/jvm/java-6-openjdk-amd64/jre/bin/java -jar /usr/share/omegat/OmegaT.jar . --mode=console-translate
+  - /usr/lib/jvm/java-6-openjdk-common/jre/bin/java -jar /usr/share/omegat/OmegaT.jar . --mode=console-translate
 after_success:
   - rm -rf ./target/.git
   - cp -r ./website/.git ./target/.git
