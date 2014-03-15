@@ -937,8 +937,8 @@
       <tuv lang="EN">
         <seg>You can use Emacs for all of your text processing needs, internet and social network interactions, hacking, coding, managing to-do's and organizing your daily schedule, play Tetris and it can even provide you with free psychotherapy and counseling using &lt;c0&gt;M-x doctor&lt;/c0&gt;.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140315T083713Z">
-        <seg>이맥스는 단순한 텍스트 에디터 기능 뿐만 아니라 소셜 네트워크, 해킹, 코딩, TODO 리스트 관리, 일정 관리, 테트리스도 가능하며, 심지어는 심리치료와 카운셀링을 위해 &lt;c0&gt;M-x doctor&lt;/c0&gt; 기능도 지원하고 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T163753Z">
+        <seg>이맥스는 단순한 텍스트 에디터 기능 뿐만 아니라 소셜 네트워크, 프로그래밍, TODO 리스트 관리, 일정 관리, 테트리스도 가능하며, 심지어 심리치료와 카운셀링을 위한 &lt;c0&gt;M-x doctor&lt;/c0&gt; 기능도 지원하고 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
