@@ -128,8 +128,8 @@
       <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;a1&gt;Org mode&lt;/a1&gt;&lt;/c0&gt; helps you keeping notes, maintaining TODO lists, planing projects and authoring documents.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T174318Z" creationid="nacyot" creationdate="20140314T174318Z">
-        <seg>&lt;c0&gt;&lt;a1&gt;Org mode&lt;/a1&gt;&lt;/c0&gt;는 노트를 적고 TODO 리스트를 관리, 프로젝트 관리, 문서 관리를 도와줍니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T084935Z" creationid="nacyot" creationdate="20140314T174318Z">
+        <seg>&lt;c0&gt;&lt;a1&gt;Org mode&lt;/a1&gt;&lt;/c0&gt;는 여러 기록을 비롯해 TODO 리스트 정리, 프로젝트 관리, 문서 관리를 도와줍니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,8 +614,8 @@
       <tuv lang="EN">
         <seg>Lisp, Ruby, Python, PHP, Java, Erlang, JavaScript, C, C++, Prolog, Tcl, AWK, PostScript, Clojure, Scala, Perl, Haskell, Elixir all of these languages and more are supported in Emacs.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T174117Z" creationid="nacyot" creationdate="20140314T174117Z">
-        <seg>Lisp, Ruby, Python, PHP, Java, Erlang, JavaScript, C, C++, Prolog, Tcl, AWK, PostScript, Clojure, Scala, Perl, Haskell, Elixir 등등 열거한 언어는 물론이고 이 외의 언어들도 지원하고 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T084730Z" creationid="nacyot" creationdate="20140314T174117Z">
+        <seg>리스프, 루비, 파이썬, PHP, 자바, 얼랭, 자바스크립트, C, C++, 프롤로그, Tcl, AWK, 포스트스크립트, 클로저, 스칼라, 펄, 하스켈, Elixir 등등 열거한 언어는 물론 이 외에도 다양한 언어를 지원하고 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -775,8 +775,8 @@
       <tuv lang="EN">
         <seg>There are tools for probably every programming language out there.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T174054Z" creationid="nacyot" creationdate="20140314T174054Z">
-        <seg>거의 모든 프로그래밍 언어를 위한 도구들이 준비되어 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T084555Z" creationid="nacyot" creationdate="20140314T174054Z">
+        <seg>이맥스는 거의 모든 프로그래밍 언어를 지원합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -937,8 +937,8 @@
       <tuv lang="EN">
         <seg>You get syntax highlighting, automatic indentation, running code inside the editor, debugging, code browsing, version control systems integration and much more.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T174235Z" creationid="nacyot" creationdate="20140314T174235Z">
-        <seg>문법 강조(Syntax highlighting)는 물론, 자동 들여쓰기, 에디터 안에서 코드 실행하기, 디버깅, 코드 탐색, 버전 컨트롤 시스템을 사용할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T084859Z" creationid="nacyot" creationdate="20140314T174235Z">
+        <seg>각가의 언어에 대해서 문법 강조(Syntax highlighting), 자동 들여쓰기, 에디터 안에서 코드 실행하기, 디버깅, 코드 탐색, 버전 컨트롤 시스템을 사용할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
