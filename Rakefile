@@ -7,6 +7,11 @@ task :default_task do
   puts "Hello, world"
 end
 
+task :add_link_to_translator do
+  content = open('target/index.html', 'r').read.gsub(/nacyot/, "<a href='http://nacyot.com'>nacyot</a>")
+  File.open('target/index.html', 'w+'){ |f| f.write content }
+end
+
 task :rewrite_cname do
   File.open('target/CNAME', 'w+'){ |f| f.write "sexy.emacs.kr" }
 end
