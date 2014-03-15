@@ -216,8 +216,8 @@
       <tuv lang="EN">
         <seg>Be free</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T161829Z" creationid="nacyot" creationdate="20140314T161829Z">
-        <seg>Be freeBe free</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T083146Z" creationid="nacyot" creationdate="20140314T161829Z">
+        <seg>Be free</seg>
       </tuv>
     </tu>
     <tu>
@@ -347,8 +347,8 @@
       <tuv lang="EN">
         <seg>Emacs is a &lt;s0&gt;text editor&lt;/s0&gt; which you can customize and extend in so many ways.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T161859Z" creationid="nacyot" creationdate="20140314T161859Z">
-        <seg>이맥스는 다양한 방법으로 확장하고 커스터마이징 가능한 &lt;s0&gt;텍스트 에디터&lt;/s0&gt;입니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T083320Z" creationid="nacyot" creationdate="20140314T161859Z">
+        <seg>이맥스는 다양한 확장 기능을 지원하고 원하는대로 커스터마이징 가능한 &lt;s0&gt;텍스트 에디터&lt;/s0&gt;입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -703,8 +703,8 @@
       <tuv lang="EN">
         <seg>Resources</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T161823Z" creationid="nacyot" creationdate="20140314T161820Z">
-        <seg>자료</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T083235Z" creationid="nacyot" creationdate="20140315T083233Z">
+        <seg>참고 자료</seg>
       </tuv>
     </tu>
     <tu>
