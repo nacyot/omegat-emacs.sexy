@@ -13,10 +13,9 @@ end
 
 task :add_links do
   links_html = JSON.parse(open('data/sites.json').read)
+    .delete_if{|link| link["language"] != "kr" }
     .map{|link| "<li><a href='#{link["url"]}'>#{link["title"]}</a></li>\n"}
     .inject(""){|text, link| text += link}
-
-  puts links_html
   
   doc = Nokogiri::HTML(open('target/index.html'))
   target = doc.search("#be-free").first
