@@ -56,16 +56,16 @@
       <tuv lang="EN">
         <seg>&lt;a0&gt; Planet Emacsen&lt;/a0&gt; — An Emacs planet collecting posts from many Emacs blogs.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T163639Z" creationid="nacyot" creationdate="20140314T163614Z">
-        <seg>&lt;a0&gt;Planet Emacsen&lt;/a0&gt; — 이맥스와 관련된 블로그들의 기사를 수집하는 사이트</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090847Z" creationid="nacyot" creationdate="20140314T163614Z">
+        <seg>&lt;a0&gt;이맥시안 플래닛(Planet Emacsen)&lt;/a0&gt; — 이맥스와 관련된 블로그들의 기사를 수집하는 사이트</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;a0&gt;/r/emacs&lt;/a0&gt; — Reddit is a virtual community of (generally) very nice people.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T163251Z" creationid="nacyot" creationdate="20140314T163101Z">
-        <seg>&lt;a0&gt;/r/emacs&lt;/a0&gt; — 레딧은 뛰어난 사람들이 모여있는 가상 커뮤니티입니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090940Z" creationid="nacyot" creationdate="20140314T163101Z">
+        <seg>&lt;a0&gt;/r/emacs&lt;/a0&gt; — 레딧은 다양한 사람들이 모여있는 가상 커뮤니티입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,24 +80,24 @@
       <tuv lang="EN">
         <seg>&lt;a0&gt;Emacs Rocks&lt;/a0&gt; — a series of videos teaching about Emacs.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T163748Z" creationid="nacyot" creationdate="20140314T163748Z">
-        <seg>&lt;a0&gt;Emacs Rocks&lt;/a0&gt; — 이맥스 소개를 위한 튜토리얼 비디오.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090912Z" creationid="nacyot" creationdate="20140314T163748Z">
+        <seg>&lt;a0&gt;Emacs Rocks&lt;/a0&gt; — 이맥스의 다양한 기능을 보여주는 튜토리얼 비디오.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Emacs Wiki&lt;/a0&gt; — a collection of useful information regarding Emacs and Emacs Lisp, its extension language.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T163540Z" creationid="nacyot" creationdate="20140314T163540Z">
-        <seg>&lt;a0&gt;Eamcs Wiki&lt;/a0&gt; — 이맥스와 이맥스 리스프(Lisp)에 관련된 유용한 정보를 다루는 위키</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090839Z" creationid="nacyot" creationdate="20140314T163540Z">
+        <seg>&lt;a0&gt;이맥스위키(Eamcs Wiki)&lt;/a0&gt; — 이맥스와 이맥스 리스프(Lisp)에 관련된 유용한 정보가 정리된 위키</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Mastering Emacs&lt;/a0&gt; — A blog about mastering the world's best text editor.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T163717Z" creationid="nacyot" creationdate="20140314T163717Z">
-        <seg>&lt;a0&gt;이맥스 마스터하기(Mastering Emacs&lt;/a0&gt; — 세계 최강 텍스트 에디터의 수련법을 다루는 블로그</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090853Z" creationid="nacyot" creationdate="20140314T163717Z">
+        <seg>&lt;a0&gt;이맥스 마스터하기(Mastering Emacs)&lt;/a0&gt; — 세계 최강 텍스트 에디터의 수련법을 다루는 블로그</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,8 +120,8 @@
       <tuv lang="EN">
         <seg>&lt;a0&gt;What the .emacs.d!?&lt;/a0&gt; — Blog from the same author as Emacs Rocks, about setting up your .emacs.d.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T163356Z" creationid="nacyot" creationdate="20140314T163356Z">
-        <seg>&lt;a0&gt;What the .emacs.d!?&lt;/a0&gt; — Emacs Rocks을 만든 분의 .emacs.d 설정을 다루는 블로그</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090927Z" creationid="nacyot" creationdate="20140314T163356Z">
+        <seg>&lt;a0&gt;What the .emacs.d!?&lt;/a0&gt; — Emacs Rocks 제작자의 .emacs.d 설정을 다루는 블로그</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,8 +614,8 @@
       <tuv lang="EN">
         <seg>Lots of them are willing to help you get started or share the path they've walked along Emacs with you.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T165727Z" creationid="nacyot" creationdate="20140314T165727Z">
-        <seg>이들은 이맥스를 시작하려는 여러분에게 기꺼이 도움이 되어줄 것입니다. 또한 앞으로 여러분이 거쳐가야할 길들을 먼저 거쳐간 사람으로서 겪은 경험들을 나눠줄 것입니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090748Z" creationid="nacyot" creationdate="20140314T165727Z">
+        <seg>이들은 이맥스를 시작하려는 여러분에게 기꺼이 도움이 되어줄 것이며 자신들의 경험을 공유해줄 것입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -799,8 +799,8 @@
       <tuv lang="EN">
         <seg>This is a work in progress, please help me improve it by forking it &lt;a1&gt;on GitHub&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T162905Z" creationid="nacyot" creationdate="20140314T162905Z">
-        <seg>이 페이지는 작성중입니다. 문서를 개선하고자 하시면 &lt;a1&gt;Github&lt;/a1&gt;에서 저장소를 포크해주세요!</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T091030Z" creationid="nacyot" creationdate="20140314T162905Z">
+        <seg>이 페이지는 작성중입니다. 문서를 개선하고자 하는 분은 &lt;a1&gt;Github&lt;/a1&gt;에서 저장소를 포크해주세요!</seg>
       </tuv>
     </tu>
     <tu>
@@ -815,8 +815,8 @@
       <tuv lang="EN">
         <seg>Website created by &lt;a0&gt;picandocodigo&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T162944Z" creationid="nacyot" creationdate="20140314T162944Z">
-        <seg>이 페이지는 &lt;a0&gt;picandocodigo&lt;/a0&gt;에 의해서 제작되었으며 nacyot에 의해 한국어로 번역되었습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T091009Z" creationid="nacyot" creationdate="20140314T162944Z">
+        <seg>이 페이지는 &lt;a0&gt;picandocodigo&lt;/a0&gt;에 의해서 제작되었으며 &lt;a href="http://nacyot.com"&gt;nacyot&lt;/a&gt;에 의해 한국어로 번역되었습니다.</seg>
       </tuv>
     </tu>
     <tu>
