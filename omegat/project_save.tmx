@@ -323,8 +323,8 @@
       <tuv lang="EN">
         <seg>Emacs can be adapted in every possible way, including its looks.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T173735Z" creationid="nacyot" creationdate="20140314T173735Z">
-        <seg>이맥스는 어느 부분이건 원하는대로 다룰 수 있습니다. 당연히 외관도 마찬가지입니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T084117Z" creationid="nacyot" creationdate="20140314T173735Z">
+        <seg>이맥스는 어느 부분이건 원하는대로 커스터마이징 가능하며 테마 기능 또한 지원합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -420,8 +420,8 @@
       <tuv lang="EN">
         <seg>Et tu, Programmer?</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T174031Z" creationid="nacyot" creationdate="20140314T174031Z">
-        <seg>Et tu, Programmer?</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T084521Z" creationid="nacyot" creationdate="20140314T174031Z">
+        <seg>Et tu, Programmer?(프로그래머이신가요?)</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,8 +566,8 @@
       <tuv lang="EN">
         <seg>It's a very powerful text processor, allowing you to manipulate blocks of text, paragraphs, words, finding, replacing, using regular expressions, keyboard macros and more.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T172858Z" creationid="nacyot" creationdate="20140314T172858Z">
-        <seg>이맥스는 블럭, 문단, 단어, 검색, 치환, 정규표현식과 다양한 키보드 매크로를 사용할 수 있는 매우 강력한 텍스트 에디터입니다. </seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T084039Z" creationid="nacyot" creationdate="20140314T172858Z">
+        <seg>이맥스에서는 블럭, 문단, 단어, 검색, 치환, 정규표현식과 다양한 키보드 매크로를 지원하는 매우 강력한 텍스트 에디터입니다. </seg>
       </tuv>
     </tu>
     <tu>
@@ -865,8 +865,8 @@
       <tuv lang="EN">
         <seg>You can &lt;a0&gt;strip it&lt;/a0&gt;, choose between several themes with &lt;c1&gt;M-x load-theme&lt;/c1&gt;, download one from another happy Emacs user or create your own.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T174030Z" creationid="nacyot" creationdate="20140314T174030Z">
-        <seg>이맥스를 &lt;a0&gt;발가벗길 수&lt;/a0&gt;도 있을 뿐 아니라 &lt;c1&gt;M-x load-theme&lt;/c1&gt; 명령어로 다른 사람이 만든 테마를 불러 올 수 있습니다. 물론 직접 만들수도 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T084512Z" creationid="nacyot" creationdate="20140314T174030Z">
+        <seg>이맥스의 외관을 &lt;a0&gt;벗겨낼 수&lt;/a0&gt; 있을 뿐 아니라 &lt;c1&gt;M-x load-theme&lt;/c1&gt; 명령어로 다른 사람이 만든 테마를 사용할 수도 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
