@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A great resource for starters is this visual guide to learning Emacs by &lt;a0&gt;Sacha Chua&lt;/a0&gt; under a &lt;e1&gt;&lt;a2&gt;CC by&lt;/a2&gt; license&lt;/e1&gt;: &lt;a3&gt;How to Learn Emacs: A Hand-drawn One-pager for Beginners&lt;/a3&gt;: &lt;a4&gt; &lt;i5/&gt; &lt;/a4&gt; You can also check out these other visual guides:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T091337Z" creationid="nacyot" creationdate="20140315T091337Z">
+        <seg>&lt;a0&gt;Sacha Chua&lt;/a0&gt;는 이맥스를 배우기 위한 비주얼 가이드를 &lt;e1&gt;&lt;a2&gt;CC 라이센스&lt;/a2&gt;&lt;/e1&gt;로 공개하고 있습니다. &lt;a3&gt;이맥스 배우기 : 손으로 그린 입문자를 위한 한 페이지 가이드(How to Learn Emacs: A Hand-drawn One-pager for Beginner).&lt;/a3&gt; &lt;a4&gt;&lt;i5/&gt;&lt;/a4&gt; 다른 비주얼 가이드도 공개되어있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Be free</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T083146Z" creationid="nacyot" creationdate="20140314T161829Z">
