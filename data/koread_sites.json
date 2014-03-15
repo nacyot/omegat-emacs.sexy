@@ -1,0 +1,87 @@
+{
+  link:{
+    // 한국어 사이트 링크
+    
+    {
+      "title": "이맥스 위키 한국어",
+      "url": "http://www.emacswiki.org/emacs-kr",
+      "description": "",
+      "language": "kr",
+    },
+    {
+      "title": "이맥스 사용자 모임 네이버 카페",
+      "url": "http://www.emacswiki.org/emacs-ko",
+      "description": "",
+      "language": "kr",
+    },
+    {
+      "title": "Emacs - 엔하위키 미러",
+      "url": "http://mirror.enha.kr/wiki/Emacs",
+      "description": "",
+      "language": "kr",
+    },
+    {
+      "title": "(emacsian ohyecloudy)",
+      "url": "http://ohyecloudy.com/emacsian/",
+      "description": "ohyecloudy 님의 이맥스 블로그",
+      "language": "kr",
+    },
+    {
+      "title": "Emacsbook(kr)",
+      "url": "http://taesoo.org/emacsbook/",
+      "description": "tsgates 님이 작성하고 있는 이맥스 가이드북",
+      "language": "kr",
+    },
+    {
+      "title": "Emacs Korea 페이스북 그룹",
+      "url": "https://www.facebook.com/groups/emacs.kr/",
+      "description": "",
+      "language": "kr",
+    },
+
+    // 언어별 링크
+
+    {
+      "title": "KLDP EmacsKR 페이지",
+      "url": "http://emacs.kldp.net/wiki/doku.php",
+      "description": "",
+      "language": "kr",
+      "programming_language": ""
+    },    
+    {
+      "title": "Seoul.pm 펄 크리스마스 달력 #2013 넷째날 : Emacs에서 Perl 개발 환경",
+      "url": "https://www.facebook.com/groups/emacs.kr/",
+      "description": "",
+      "language": "kr",
+      "programming_language": "perl"
+    },
+    {
+      "title": "nacyot의 프로그래밍 이야기 : 이맥스와 자바스크립트 코드 분석 툴 Tern",
+      "url": "http://advent.perl.kr/2013/2013-12-04.html",
+      "description": "",
+      "language": "kr",
+      "programming_language": "javascript"
+    },    
+    {
+      "title": "Recommendation for Emacs/Ruby setup - Stack Overflow",
+      "url": "http://stackoverflow.com/questions/20729873/recommendation-for-emacs-ruby-setup",
+      "description": "",
+      "language": "en",
+      "programming_language": "ruby"
+    },    
+    {
+      "title": "Setting up Emacs as Ruby development environment on OSX",
+      "url": "http://crypt.codemancers.com/posts/2013-09-26-setting-up-emacs-as-development-environment-on-osx/",
+      "description": "",
+      "language": "en",
+      "programming_language": "ruby"
+    },    
+    {
+      "title": "[Emacs] Version 24 로 업글 후 Clojure 와 Common Lisp 개발환경 갖추기",
+      "url": "http://crazia.tistory.com/entry/Emacs-Version-24-%EB%A1%9C-%EC%97%85%EA%B8%80-%ED%9B%84-Clojure-%EC%99%80-Common-Lisp-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B0%96%EC%B6%94%EA%B8%B0",
+      "description": "",
+      "language": "kr",
+      "programming_language": "clojure"
+    },    
+  }
+}
