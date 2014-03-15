@@ -48,8 +48,8 @@
       <tuv lang="EN">
         <seg>(and awesome).</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T175420Z" creationid="nacyot" creationdate="20140314T162103Z">
-        <seg>(물론 뛰어나기도 하고요).</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T083554Z" creationid="nacyot" creationdate="20140314T162103Z">
+        <seg>(물론 기능도 뛰어나고요).</seg>
       </tuv>
     </tu>
     <tu>
@@ -396,8 +396,8 @@
         <seg>Emacs on
       Tron Legacy</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T175339Z" creationid="nacyot" creationdate="20140314T175339Z">
-        <seg>Tron Legacy의 이맥스</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T083536Z" creationid="nacyot" creationdate="20140314T175339Z">
+        <seg>Tron Legacy에 등장하는 이맥스</seg>
       </tuv>
     </tu>
     <tu>
@@ -444,8 +444,8 @@
       <tuv lang="EN">
         <seg>GNU Emacs is &lt;s0&gt;Free Software&lt;/s0&gt;, free as in free beer and free as in free speech.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T172757Z" creationid="nacyot" creationdate="20140314T172757Z">
-        <seg>GNU Emacs는 &lt;s0&gt;자유 소프트웨어&lt;/s0&gt;이며 @@@</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T083839Z" creationid="nacyot" creationdate="20140314T172757Z">
+        <seg>GNU Emacs는 돈을 지불할 필요도 없으며 어떠한 제약도 없는 &lt;s0&gt;자유 소프트웨어&lt;/s0&gt;입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,8 +550,8 @@
       <tuv lang="EN">
         <seg>It was written in C and provides its own implementation of &lt;s1&gt;Lisp&lt;/s1&gt;, &lt;a2&gt; the language from which &lt;e3&gt;the Gods wrought the universe&lt;/e3&gt;&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T175330Z" creationid="nacyot" creationdate="20140314T175330Z">
-        <seg>이맥스는 C로 쓰여졌으며 자체적인 &lt;s1&gt;Lisp&lt;/s1&gt; 언어 구현을 가지고 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T083525Z" creationid="nacyot" creationdate="20140314T175330Z">
+        <seg>이맥스는 C 언어로 만들어진 프로그램으로, 이맥스 확장을 위한 독자적인 &lt;s1&gt;Lisp&lt;/s1&gt; 구현(Elisp)을 포함하고 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -679,8 +679,8 @@
       <tuv lang="EN">
         <seg>Not only does it give the user the &lt;a0&gt;four essential freedoms&lt;/a0&gt;, its architecture is built in such a way that you have the power to mold it, change it and make it comply to your computering needs.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T175937Z" creationid="nacyot" creationdate="20140314T175937Z">
-        <seg>이는 사용자에게 &lt;a0&gt;4가지 핵심적 자유&lt;/a0&gt;를 줄뿐만아니라 이맥스의 아키텍쳐는 이맥스를 변화시키고 여러분이 필요한 대로 확장해날 수 있도록 설계되어있습니ㅏㄷ.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T084011Z" creationid="nacyot" creationdate="20140314T175937Z">
+        <seg>이맥스는 사용자에게 &lt;a0&gt;4가지 본질적 자유&lt;/a0&gt;를 선사합니다. 이 뿐만 아니라 이맥스는 변화와 확장에 적합하게 설계되어있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -751,8 +751,8 @@
       <tuv lang="EN">
         <seg>The original Emacs was written by &lt;e1&gt;St. iGNUcius himself&lt;/e1&gt; — &lt;s2&gt;Richard Stallman&lt;/s2&gt;.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T175809Z" creationid="nacyot" creationdate="20140314T175809Z">
-        <seg>이맥스는 처음에 &lt;e1&gt;St. iGNUcius&lt;/e1&gt; — &lt;s2&gt;리처드 스톨만&lt;/s2&gt;이 만들었습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T083851Z" creationid="nacyot" creationdate="20140314T175809Z">
+        <seg>이맥스는 &lt;e1&gt;St. iGNUcius&lt;/e1&gt; — &lt;s2&gt;리처드 스톨만&lt;/s2&gt;이 처음 만들었습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -791,8 +791,8 @@
       <tuv lang="EN">
         <seg>There's a reason why Emacs was &lt;a0&gt;featured in Tron Legacy&lt;/a0&gt;, it is sexy!</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T175403Z" creationid="nacyot" creationdate="20140314T175403Z">
-        <seg>Tron Legacy에 이맥스가 나온 데는 다 이유가 있습니다. 이맥스는 섹시하니까요!</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T083548Z" creationid="nacyot" creationdate="20140314T175403Z">
+        <seg>Tron Legacy에 이맥스가 등장한 데는 다 이유가 있습니다. 섹시하니까요!</seg>
       </tuv>
     </tu>
     <tu>
@@ -849,8 +849,8 @@
       <tuv lang="EN">
         <seg>Why using Emacs?</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T172817Z" creationid="nacyot" creationdate="20140314T172817Z">
-        <seg>왜 이맥스인가요?</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T084017Z" creationid="nacyot" creationdate="20140314T172817Z">
+        <seg>왜 이맥스인가?</seg>
       </tuv>
     </tu>
     <tu>
@@ -929,8 +929,8 @@
       <tuv lang="EN">
         <seg>You can use Emacs for all of your text processing needs, internet and social network interactions, hacking, coding, managing to-do's and organizing your daily schedule, play Tetris and it can even provide you with free psychotherapy and counseling using &lt;c0&gt;M-x doctor&lt;/c0&gt;.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T175706Z" creationid="nacyot" creationdate="20140314T175543Z">
-        <seg>이맥스는 텍스트 편집은 물론 인터넷, 소셜 네트워크, 해킹, 코딩, TODO 리스트 관리, 일정 관리, 테트리스 심지어는 심리치료와 카운셀링을 위해 &lt;c0&gt;M-x doctor&lt;/c0&gt;을 사용할 수도 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T083713Z" creationid="nacyot" creationdate="20140314T175543Z">
+        <seg>이맥스는 단순한 텍스트 에디터 기능 뿐만 아니라 소셜 네트워크, 해킹, 코딩, TODO 리스트 관리, 일정 관리, 테트리스도 가능하며, 심지어는 심리치료와 카운셀링을 위해 &lt;c0&gt;M-x doctor&lt;/c0&gt; 기능도 지원하고 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
