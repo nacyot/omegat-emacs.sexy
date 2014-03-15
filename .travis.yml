@@ -8,15 +8,15 @@ env:
   - GIT_AUTHOR_NAME=nacyot
   - GIT_AUTHOR_EMAIL=propellerheaven@gmail.com
   - secure: hdhbnwjpRLko8zVfjt9MPkrpSnyNYKncIbzcUcvvM8GWgDFKbwl/xlqkuE8XKXPb0LA8Z4eC6B5BYDZkf51lv+3cU9iJr8X4IAOPPjMZdJk6sySafFUStolgh+myuKMTYorHNbkFcViwYFMQU7XD50xWm6l2lgKu2qR9ax00Xdg=
-  before_install:
+before_install:
   - sudo apt-get install -qq omegat
-  before_script:
+before_script:
   - rm -rf target
   - mkdir target
   - git clone https://github.com/nacyot/sexy.emacs.kr.git website
-  script:
+script:
   - omegat . --mode=console-translate
-  after_success:
+after_success:
   - rm -rf ./target/.git
   - cp -r ./website/.git ./target/.git
   - cd target
