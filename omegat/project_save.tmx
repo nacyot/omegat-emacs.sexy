@@ -385,6 +385,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emacs is used by lots of users, some "famous" Emacs users are:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T162558Z" creationid="nacyot" creationdate="20140315T162558Z">
+        <seg>그 중에서 유명한 사람들로는 아래 분들이 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emacs is used by very happy hackers all around the globe.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T090433Z">
@@ -516,6 +524,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Includes a series on extending it.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T162523Z" creationid="nacyot" creationdate="20140315T162523Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Install Emacs</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T162112Z">
@@ -584,6 +600,14 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T174648Z">
         <seg>튜토리얼은 빙산의 일각에 불과합니다. 이제부터가 정말 시작입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It's not called the &lt;e0&gt; self-documenting real-time display editor&lt;/e0&gt; for nothing.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T162528Z" creationid="nacyot" creationdate="20140315T162528Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
