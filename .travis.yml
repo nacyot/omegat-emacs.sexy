@@ -1,6 +1,3 @@
-language: ruby
-rvm:
-  - 2.1
 env:
   global:
   - GIT_COMMITTER_NAME=nacyot
