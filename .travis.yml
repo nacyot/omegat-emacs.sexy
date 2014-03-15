@@ -1,23 +1,31 @@
 language: ruby
 rvm:
-- 2.1.0
-env:
-  global:
-  - GIT_COMMITTER_NAME=nacyot
-  - GIT_COMMITTER_EMAIL=propellerheaven@gmail.com
-  - GIT_AUTHOR_NAME=nacyot
-  - GIT_AUTHOR_EMAIL=propellerheaven@gmail.com
-  - secure: gX3qCRwk8Mg+lXotEvApmqFi7HwMllI9QV9+MHr2Wgda0wHOtDavPBSe33RgfCIucX36Ii4JjeehRc8mhx6EMUOX0lYcny2/dpe2jtL7RwY7ZfhoEbitIPSMOo9Xsicn/2Cpz7AlT7fcnXsXgAl1T2teW3ELi/YCGE6NWmhaGFQ=
-before_install:
-  - sudo apt-get install -qq libicu-dev
-before_script:
-  - npm install -g bower
-  - bower install
-  - git clone https://github.com/nacyot/wiki.nacyot.com.git build
-script: bundle exec middleman build --verbose
-after_success:
-  - cd build
-  - git add -A
+  - 2.1
+  env:
+    global:
+    - GIT_COMMITTER_NAME=nacyot
+    - GIT_COMMITTER_EMAIL=propellerheaven@gmail.com
+    - GIT_AUTHOR_NAME=nacyot
+    - GIT_AUTHOR_EMAIL=propellerheaven@gmail.com
+    - secure: hdhbnwjpRLko8zVfjt9MPkrpSnyNYKncIbzcUcvvM8GWgDFKbwl/xlqkuE8XKXPb0LA8Z4eC6B5BYDZkf51lv+3cU9iJr8X4IAOPPjMZdJk6sySafFUStolgh+myuKMTYorHNbkFcViwYFMQU7XD50xWm6l2lgKu2qR9ax00Xdg=
+  before_install:
+  - sudo apt-get install -qq omegat
+  before_script:
+  - rm -rf target
+  - mkdir target
+  - git clone https://github.com/nacyot/sexy.emacs.kr.git website
+  # - tar xf omegat-exe/omegat.tar.gz -C omegat-exe/
+  script:
+  # - java -jar ./omegat-exe/OmegaT/OmegaT.jar . --mode=console-translate
+  - omegat . --mode=console-translate
+  after_success:
+  - rm -rf ./target/.git
+  - cp -r ./website/.git ./target/.git
+  - cd target
+  - git checkout gh-pages
+  - git add --all .
   - git commit -m 'Update pages from naycot/omegat-emacs.sexy'
   - git push --quiet https://$GH_TOKEN@github.com/nacyot/wiki.nacyot.com.git gh-pages
+              
+
 

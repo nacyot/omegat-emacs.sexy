@@ -1,14 +1,14 @@
-3/15/14 6:40 PM
+3/15/14 8:52 PM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	
-Total:           	     172	 1282	                       7588	                         8815	
-Remaining:       	       0	    0	                          0	                            0	
-Unique:          	     161	 1255	                       7450	                         8652	
-Unique Remaining:	       0	    0	                          0	                            0	
+Total:           	     172	 1282	                       7056	                         8283	
+Remaining:       	       2	   16	                         94	                          109	
+Unique:          	     161	 1255	                       6918	                         8120	
+Unique Remaining:	       2	   16	                         94	                          109	
 
 
 Individual File Statistics:
 
 File Name 	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-index.html	           172	                 0	            161	                        0	       1282	              0	        1255	                     0	                             7588	                                    0	                              7450	                                           0	                               8815	                                      0	                                8652	                                             0	
+index.html	           172	                 2	            161	                        2	       1282	             16	        1255	                    16	                             7056	                                   94	                              6918	                                          94	                               8283	                                    109	                                8120	                                           109	
