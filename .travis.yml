@@ -9,11 +9,7 @@ env:
   - GIT_AUTHOR_EMAIL=propellerheaven@gmail.com
   - secure: hdhbnwjpRLko8zVfjt9MPkrpSnyNYKncIbzcUcvvM8GWgDFKbwl/xlqkuE8XKXPb0LA8Z4eC6B5BYDZkf51lv+3cU9iJr8X4IAOPPjMZdJk6sySafFUStolgh+myuKMTYorHNbkFcViwYFMQU7XD50xWm6l2lgKu2qR9ax00Xdg=
 before_install:
-  - sudo add-apt-repository ppa:webupd8team/java -y
-  - sudo apt-get update
-  - sudo apt-get install -qq oracle-java7-installer
-  - sudo apt-get install -qq oracle-java7-set-default
-  - sudo apt-get install -qq omegat
+  - sudo apt-get install -qq openjdk-6-jdk omegat
 before_script:
   - rm -rf target
   - mkdir target
