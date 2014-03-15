@@ -136,16 +136,16 @@
       <tuv lang="EN">
         <seg>&lt;c0&gt;ERC&lt;/c0&gt; is a built-in IRC client and &lt;c1&gt;BitlBee&lt;/c1&gt; can be used as a gateway for several IM services.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T174531Z" creationid="nacyot" creationdate="20140314T174531Z">
-        <seg>&lt;c0&gt;ERC&lt;/c0&gt;는 빌트인 IRC 클라이언트이며, &lt;c1&gt;BitlBee&lt;/c1&gt;는 몇몇 메신저 서비스를 이맥스 안에서 사용할 수 있게해줍니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T085513Z" creationid="nacyot" creationdate="20140314T174531Z">
+        <seg>&lt;c0&gt;ERC&lt;/c0&gt;는 빌트인 이맥스 IRC 클라이언트이며, &lt;c1&gt;BitlBee&lt;/c1&gt;는 몇몇 메신저 서비스를 이맥스 안에서 사용할 수 있게해줍니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;c0&gt;Tramp&lt;/c0&gt; allows you to edit remote files without leaving Emacs.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T174431Z" creationid="nacyot" creationdate="20140314T174431Z">
-        <seg>&lt;c0&gt;Tramp&lt;/c0&gt;는 이맥스에서 원격지의 파일을 편집할 수 있게 도와줍니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T085424Z" creationid="nacyot" creationdate="20140314T174431Z">
+        <seg>&lt;c0&gt;Tramp&lt;/c0&gt;는 이맥스에서 네트워크 상의 파일을 편집할 수 있게 도와줍니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -897,16 +897,16 @@
       <tuv lang="EN">
         <seg>You can edit files via SSH and edit local files with su/sudo, among other things.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T174454Z" creationid="nacyot" creationdate="20140314T174454Z">
-        <seg>SSH를 통해서 파일을 편집할 수 있고 로컬 파일을 su/sudo를 사용해 편집할 수 있게 합니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T085456Z" creationid="nacyot" creationdate="20140314T174454Z">
+        <seg>SSH를 통해서 파일을 편집할 수 있게 해주며, 로컬 파일에 대해서도 su/sudo를 사용해 편집할 수 있게 합니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>You can even create HTML websites like this one or export to your documents as LaTeX, Beamer, OpenDocuments and many more formats.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T174405Z" creationid="nacyot" creationdate="20140314T174405Z">
-        <seg>이 사이트와 같은 HTML 사이트를 만들 수 있을 뿐만 아니라 작성한 문서를 LaTeX, Beamer, OpenDocument 등 다양한 포맷으로 만들 수 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T085412Z" creationid="nacyot" creationdate="20140314T174405Z">
+        <seg>이 사이트와 같은 HTML로 이루어진 웹사이트도 만들 수 있고, 작성한 문서를 LaTeX, Beamer, OpenDocument 등 다양한 포맷으로 변환할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
