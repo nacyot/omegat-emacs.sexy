@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>&lt;a0&gt;The Emacs Manual&lt;/a0&gt; — Official GNU Emacs manual.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T163420Z" creationid="nacyot" creationdate="20140314T163420Z">
-        <seg>&lt;a0&gt;이맥스 매뉴얼(The Emacs Manual)&lt;/a0&gt; — 공식 GNU 이맥스 매뉴얼</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T092224Z" creationid="nacyot" creationdate="20140314T163420Z">
+        <seg>&lt;a0&gt;이맥스 매뉴얼(The Emacs Manual)&lt;/a0&gt; — 공식 GNU 이맥스 매뉴얼. </seg>
       </tuv>
     </tu>
     <tu>
@@ -823,8 +823,8 @@
       <tuv lang="EN">
         <seg>Website created by &lt;a0&gt;picandocodigo&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140315T091009Z" creationid="nacyot" creationdate="20140314T162944Z">
-        <seg>이 페이지는 &lt;a0&gt;picandocodigo&lt;/a0&gt;에 의해서 제작되었으며 &lt;a href="http://nacyot.com"&gt;nacyot&lt;/a&gt;에 의해 한국어로 번역되었습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T092245Z" creationid="nacyot" creationdate="20140314T162944Z">
+        <seg>이 페이지는 &lt;a0&gt;picandocodigo&lt;/a0&gt;에 의해서 제작되었으며 nacyot에 의해 한국어로 번역되었습니다.</seg>
       </tuv>
     </tu>
     <tu>
