@@ -12,6 +12,7 @@ before_install:
   - sudo apt-get install -qq openjdk-6-jdk omegat
 before_script:
   - rm -rf target
+  - mkdir -p tm/auto
   - mkdir target
   - git clone https://github.com/nacyot/omegat-glossary.git glossary  
   - git clone https://github.com/nacyot/omegat-dictionary.git dictionary
