@@ -160,8 +160,8 @@
       <tuv lang="EN">
         <seg>&lt;s0&gt;Instead of using your mouse&lt;/s0&gt;, you can press &lt;c1&gt;Alt + X&lt;/c1&gt; on your keyboard, which will take you to the &lt;e2&gt;command mode&lt;/e2&gt; on the lower screen of Emacs.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T172446Z" creationid="nacyot" creationdate="20140314T172446Z">
-        <seg>&lt;s0&gt;마우스를 사용하는 대신에&lt;/s0&gt; &lt;c1&gt;Alt + X&lt;/c1&gt; 키를 눌러 이맥스 화면 아래 쪽의 &lt;e2&gt;명령어 버퍼&lt;/e2&gt;를 사용할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090312Z" creationid="nacyot" creationdate="20140314T172446Z">
+        <seg>&lt;s0&gt;마우스 대신에&lt;/s0&gt; &lt;c1&gt;Alt + X&lt;/c1&gt; 키를 눌러 이맥스 화면 아래 쪽의 &lt;e2&gt;명령어 버퍼&lt;/e2&gt;에서 명령어를 입력할 수도 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,14 +202,6 @@
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T085705Z" creationid="nacyot" creationdate="20140314T164629Z">
         <seg>&lt;s0&gt;유키히로 마츠모토 (Matz)&lt;/s0&gt;. 루비 프로그래밍 언어를 만든 프로그래머.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>A great resource for starters is this visual guide to learning Emacs by &lt;a0&gt;Sacha Chua&lt;/a0&gt; under a &lt;e1&gt;&lt;a2&gt;CC by&lt;/a2&gt; license&lt;/e1&gt;: &lt;a3&gt;How to Learn Emacs: A Hand-drawn One-pager for Beginners&lt;/a3&gt;: &lt;a4&gt; &lt;i5/&gt; &lt;/a4&gt; You can also check out these other visual guides:</seg>
-      </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T163839Z" creationid="nacyot" creationdate="20140314T163839Z">
-        <seg>A great resource for starters is this visual guide to learning Emacs by &lt;a0&gt;Sacha Chua&lt;/a0&gt; under a &lt;e1&gt;&lt;a2&gt;CC by&lt;/a2&gt; license&lt;/e1&gt;: &lt;a3&gt;How to Learn Emacs: A Hand-drawn One-pager for Beginners&lt;/a3&gt;: &lt;a4&gt; &lt;i5/&gt; &lt;/a4&gt; You can also check out these other visual guides:</seg>
       </tuv>
     </tu>
     <tu>
@@ -291,16 +283,16 @@
       <tuv lang="EN">
         <seg>Emacs Mac Por</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T170557Z" creationid="nacyot" creationdate="20140314T170557Z">
-        <seg>Emacs Mac Port.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090044Z" creationid="nacyot" creationdate="20140314T170557Z">
+        <seg>Emacs Mac Port</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Emacs Mac Port.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T170635Z" creationid="nacyot" creationdate="20140314T170630Z">
-        <seg>이맥스 맥 포트(Emacs Mac Port.)</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090049Z" creationid="nacyot" creationdate="20140314T170630Z">
+        <seg>이맥스 맥 포트(Emacs Mac Port)</seg>
       </tuv>
     </tu>
     <tu>
@@ -339,8 +331,8 @@
       <tuv lang="EN">
         <seg>Emacs includes a great tutorial to &lt;s1&gt;teach you how to use Emacs while you're using Emacs&lt;/s1&gt;.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T172237Z" creationid="nacyot" creationdate="20140314T172237Z">
-        <seg>이맥스는 이맥스를 사용하는 동안에 어떻게 이맥스 사용법을 알려주기 위한 훌륭한 튜토리얼을 내장하고 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090216Z" creationid="nacyot" creationdate="20140314T172237Z">
+        <seg>이맥스에는 이맥스 위에서 실행할 수 있는 훌륭한 튜토리얼이 내장되어 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -387,8 +379,8 @@
       <tuv lang="EN">
         <seg>Emacs is used by very happy hackers all around the globe.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T165536Z" creationid="nacyot" creationdate="20140314T165536Z">
-        <seg>이맥스는 전 세계의 행복한 해커들이 사용하고 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090433Z" creationid="nacyot" creationdate="20140314T165536Z">
+        <seg>이맥스는 전 세계의 해커들이 행복하게 사용하고 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -436,8 +428,8 @@
       <tuv lang="EN">
         <seg>From there you can click on the &lt;e0&gt;Emacs Tutorial&lt;/e0&gt; link with your mouse.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T172401Z" creationid="nacyot" creationdate="20140314T172401Z">
-        <seg>이 페이지에서 마우스로 &lt;e0&gt;Emacs Tutorial&lt;/e0&gt; 링크를 클릭합니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090239Z" creationid="nacyot" creationdate="20140314T172401Z">
+        <seg>페이지에서 마우스로 &lt;e0&gt;Emacs Tutorial&lt;/e0&gt; 링크를 클릭합니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -468,8 +460,8 @@
       <tuv lang="EN">
         <seg>Get used to it, because there's more where that came from.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T175112Z" creationid="nacyot" creationdate="20140314T175112Z">
-        <seg>이런 명령어 실행은 자주 사용되므로 친숙해지시길 바랍니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090348Z" creationid="nacyot" creationdate="20140314T175112Z">
+        <seg>이런 방식의 명령어 실행은 자주 사용되므로 친숙해지시길 바랍니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,8 +494,8 @@
       <tuv lang="EN">
         <seg>How to learn Emacs keyboard shortcuts (a visual tutorial for newbies)</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T165341Z" creationid="nacyot" creationdate="20140314T165341Z">
-        <seg>이맥스 단축키 익히기(뉴비를 위한 시각적 튜토리얼)</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090419Z" creationid="nacyot" creationdate="20140314T165341Z">
+        <seg>이맥스 단축키 익히기(입문자를 위한 시각적 튜토리얼)</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,8 +526,8 @@
       <tuv lang="EN">
         <seg>Install using Homebrew.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T170520Z" creationid="nacyot" creationdate="20140314T170520Z">
-        <seg>홈브류(Homebrew)를 사용해 설치하세요.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090041Z" creationid="nacyot" creationdate="20140314T170520Z">
+        <seg>Homebrew를 사용해 설치하세요.</seg>
       </tuv>
     </tu>
     <tu>
@@ -647,8 +639,8 @@
       <tuv lang="EN">
         <seg>Mastering Emacs is not the goal, it's the path.&lt;br0&gt;</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T171043Z" creationid="nacyot" creationdate="20140314T171043Z">
-        <seg>이맥스를 마스터하는 일은 목표가 아니라 과정이다.&lt;br0&gt;</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090126Z" creationid="nacyot" creationdate="20140314T171043Z">
+        <seg>이맥스를 정복하는 일은 목표가 아니라 과정이다.&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -759,8 +751,8 @@
       <tuv lang="EN">
         <seg>Then write &lt;c3&gt;help-with-tutorial&lt;/c3&gt; and press Enter.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T172500Z" creationid="nacyot" creationdate="20140314T172500Z">
-        <seg>그리고 &lt;c3&gt;help-with-tutorial&lt;/c3&gt;이라고 입력해주세ㅛㅇ.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090322Z" creationid="nacyot" creationdate="20140314T172500Z">
+        <seg>&lt;c3&gt;help-with-tutorial&lt;/c3&gt;라고 입력해주세요.</seg>
       </tuv>
     </tu>
     <tu>
@@ -945,8 +937,8 @@
       <tuv lang="EN">
         <seg>You just entered the first of many Emacs commands.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T172518Z" creationid="nacyot" creationdate="20140314T172518Z">
-        <seg>수많은 이맥스 명령어 중에 첫 명령어를 실행했습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090338Z" creationid="nacyot" creationdate="20140314T172518Z">
+        <seg>수많은 이맥스 명령어 중에 하나를 처음으로 실행했습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -961,8 +953,8 @@
       <tuv lang="EN">
         <seg>You will be greeted with a welcome screen.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140314T172340Z" creationid="nacyot" creationdate="20140314T172340Z">
-        <seg>환영 페이지가 여러분을 반겨줍니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T090250Z" creationid="nacyot" creationdate="20140314T172340Z">
+        <seg>이맥스가 여러분을 반겨줍니다.</seg>
       </tuv>
     </tu>
     <tu>
