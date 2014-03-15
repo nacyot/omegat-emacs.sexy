@@ -10,7 +10,7 @@
         <source_lang>EN</source_lang>
         <target_lang>KO</target_lang>
         <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
-        <target_tok>org.omegat.tokenizer.LuceneLatvianTokenizer</target_tok>
+        <target_tok>org.omegat.tokenizer.LuceneKoreanTokenizer</target_tok>
         <sentence_seg>true</sentence_seg>
         <support_default_translations>true</support_default_translations>
         <remove_tags>false</remove_tags>

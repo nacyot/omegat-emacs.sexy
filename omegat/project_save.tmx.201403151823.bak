@@ -54,162 +54,162 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg> Planet Emacsen — An Emacs planet collecting posts from many Emacs blogs.</seg>
+        <seg>&lt;a0&gt; Planet Emacsen&lt;/a0&gt; — An Emacs planet collecting posts from many Emacs blogs.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T090847Z" creationid="nacyot" creationdate="20140314T163614Z">
-        <seg>이맥시안 플래닛(Planet Emacsen) — 이맥스와 관련된 블로그들의 기사를 수집하는 사이트</seg>
+        <seg>&lt;a0&gt;이맥시안 플래닛(Planet Emacsen)&lt;/a0&gt; — 이맥스와 관련된 블로그들의 기사를 수집하는 사이트</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>/r/emacs — Reddit is a virtual community of (generally) very nice people.</seg>
+        <seg>&lt;a0&gt;/r/emacs&lt;/a0&gt; — Reddit is a virtual community of (generally) very nice people.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T090940Z" creationid="nacyot" creationdate="20140314T163101Z">
-        <seg>/r/emacs — 레딧은 다양한 사람들이 모여있는 가상 커뮤니티입니다.</seg>
+        <seg>&lt;a0&gt;/r/emacs&lt;/a0&gt; — 레딧은 다양한 사람들이 모여있는 가상 커뮤니티입니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Emacs Movies — Tutorial screencasts for Emacs.</seg>
+        <seg>&lt;a0&gt;Emacs Movies&lt;/a0&gt; — Tutorial screencasts for Emacs.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T163248Z" creationid="nacyot" creationdate="20140314T163217Z">
-        <seg>이맥스 무비(Emacs Movies) — 이맥스 튜토리얼 스크린캐스트</seg>
+        <seg>&lt;a0&gt;이맥스 무비(Emacs Movies)&lt;/a0&gt; — 이맥스 튜토리얼 스크린캐스트</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Emacs Rocks — a series of videos teaching about Emacs.</seg>
+        <seg>&lt;a0&gt;Emacs Rocks&lt;/a0&gt; — a series of videos teaching about Emacs.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T090912Z" creationid="nacyot" creationdate="20140314T163748Z">
-        <seg>Emacs Rocks — 이맥스의 다양한 기능을 보여주는 튜토리얼 비디오.</seg>
+        <seg>&lt;a0&gt;Emacs Rocks&lt;/a0&gt; — 이맥스의 다양한 기능을 보여주는 튜토리얼 비디오.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Emacs Wiki — a collection of useful information regarding Emacs and Emacs Lisp, its extension language.</seg>
+        <seg>&lt;a0&gt;Emacs Wiki&lt;/a0&gt; — a collection of useful information regarding Emacs and Emacs Lisp, its extension language.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T090839Z" creationid="nacyot" creationdate="20140314T163540Z">
-        <seg>이맥스위키(Eamcs Wiki) — 이맥스와 이맥스 리스프(Lisp)에 관련된 유용한 정보가 정리된 위키</seg>
+        <seg>&lt;a0&gt;이맥스위키(Eamcs Wiki)&lt;/a0&gt; — 이맥스와 이맥스 리스프(Lisp)에 관련된 유용한 정보가 정리된 위키</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Mastering Emacs — A blog about mastering the world's best text editor.</seg>
+        <seg>&lt;a0&gt;Mastering Emacs&lt;/a0&gt; — A blog about mastering the world's best text editor.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T090853Z" creationid="nacyot" creationdate="20140314T163717Z">
-        <seg>이맥스 마스터하기(Mastering Emacs) — 세계 최강 텍스트 에디터의 수련법을 다루는 블로그</seg>
+        <seg>&lt;a0&gt;이맥스 마스터하기(Mastering Emacs)&lt;/a0&gt; — 세계 최강 텍스트 에디터의 수련법을 다루는 블로그</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>More info on Emacs for Windows on the GNU website.</seg>
+        <seg>&lt;a0&gt;More info on Emacs for Windows&lt;/a0&gt; on the GNU website.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T171754Z" creationid="nacyot" creationdate="20140314T171754Z">
-        <seg>윈도우 이맥스에 대한 더 자세한 정보는 GNU 사이트를 참조해주세요.</seg>
+        <seg>&lt;a0&gt;윈도우 이맥스&lt;/a0&gt;에 대한 더 자세한 정보는 GNU 사이트를 참조해주세요.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The Emacs Manual — Official GNU Emacs manual.</seg>
+        <seg>&lt;a0&gt;The Emacs Manual&lt;/a0&gt; — Official GNU Emacs manual.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T092224Z" creationid="nacyot" creationdate="20140314T163420Z">
-        <seg>이맥스 매뉴얼(The Emacs Manual) — 공식 GNU 이맥스 매뉴얼. </seg>
+        <seg>&lt;a0&gt;이맥스 매뉴얼(The Emacs Manual)&lt;/a0&gt; — 공식 GNU 이맥스 매뉴얼. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>What the .emacs.d!? — Blog from the same author as Emacs Rocks, about setting up your .emacs.d.</seg>
+        <seg>&lt;a0&gt;What the .emacs.d!?&lt;/a0&gt; — Blog from the same author as Emacs Rocks, about setting up your .emacs.d.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T090927Z" creationid="nacyot" creationdate="20140314T163356Z">
-        <seg>What the .emacs.d!? — Emacs Rocks 제작자의 .emacs.d 설정을 다루는 블로그</seg>
+        <seg>&lt;a0&gt;What the .emacs.d!?&lt;/a0&gt; — Emacs Rocks 제작자의 .emacs.d 설정을 다루는 블로그</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Org mode helps you keeping notes, maintaining TODO lists, planing projects and authoring documents.</seg>
+        <seg>&lt;c0&gt;&lt;a1&gt;Org mode&lt;/a1&gt;&lt;/c0&gt; helps you keeping notes, maintaining TODO lists, planing projects and authoring documents.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T084935Z" creationid="nacyot" creationdate="20140314T174318Z">
-        <seg>Org mode는 여러 기록을 비롯해 TODO 리스트 정리, 프로젝트 관리, 문서 관리를 도와줍니다.</seg>
+        <seg>&lt;c0&gt;&lt;a1&gt;Org mode&lt;/a1&gt;&lt;/c0&gt;는 여러 기록을 비롯해 TODO 리스트 정리, 프로젝트 관리, 문서 관리를 도와줍니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>ERC is a built-in IRC client and BitlBee can be used as a gateway for several IM services.</seg>
+        <seg>&lt;c0&gt;ERC&lt;/c0&gt; is a built-in IRC client and &lt;c1&gt;BitlBee&lt;/c1&gt; can be used as a gateway for several IM services.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T085513Z" creationid="nacyot" creationdate="20140314T174531Z">
-        <seg>ERC는 빌트인 이맥스 IRC 클라이언트이며, BitlBee는 몇몇 메신저 서비스를 이맥스 안에서 사용할 수 있게해줍니다.</seg>
+        <seg>&lt;c0&gt;ERC&lt;/c0&gt;는 빌트인 이맥스 IRC 클라이언트이며, &lt;c1&gt;BitlBee&lt;/c1&gt;는 몇몇 메신저 서비스를 이맥스 안에서 사용할 수 있게해줍니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Tramp allows you to edit remote files without leaving Emacs.</seg>
+        <seg>&lt;c0&gt;Tramp&lt;/c0&gt; allows you to edit remote files without leaving Emacs.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T085424Z" creationid="nacyot" creationdate="20140314T174431Z">
-        <seg>Tramp는 이맥스에서 네트워크 상의 파일을 편집할 수 있게 도와줍니다.</seg>
+        <seg>&lt;c0&gt;Tramp&lt;/c0&gt;는 이맥스에서 네트워크 상의 파일을 편집할 수 있게 도와줍니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Guido van Rossum created the Python programming language.</seg>
+        <seg>&lt;s0&gt;Guido van Rossum&lt;/s0&gt; created the Python programming language.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T085724Z" creationid="nacyot" creationdate="20140314T164646Z">
-        <seg>귀도 반 로썸(Guido van Rossum). 파이썬 프로그래밍 언어를 만든 프로그래머.</seg>
+        <seg>&lt;s0&gt;귀도 반 로썸(Guido van Rossum)&lt;/s0&gt;. 파이썬 프로그래밍 언어를 만든 프로그래머.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Instead of using your mouse, you can press Alt + X on your keyboard, which will take you to the command mode on the lower screen of Emacs.</seg>
+        <seg>&lt;s0&gt;Instead of using your mouse&lt;/s0&gt;, you can press &lt;c1&gt;Alt + X&lt;/c1&gt; on your keyboard, which will take you to the &lt;e2&gt;command mode&lt;/e2&gt; on the lower screen of Emacs.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T090312Z" creationid="nacyot" creationdate="20140314T172446Z">
-        <seg>마우스 대신에 Alt + X 키를 눌러 이맥스 화면 아래 쪽의 명령어 버퍼에서 명령어를 입력할 수도 있습니다.</seg>
+        <seg>&lt;s0&gt;마우스 대신에&lt;/s0&gt; &lt;c1&gt;Alt + X&lt;/c1&gt; 키를 눌러 이맥스 화면 아래 쪽의 &lt;e2&gt;명령어 버퍼&lt;/e2&gt;에서 명령어를 입력할 수도 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Jim Weirich was a well known rubyist, creator of Rake (Ruby make) among other tools.</seg>
+        <seg>&lt;s0&gt;Jim Weirich&lt;/s0&gt; was a well known rubyist, creator of Rake (Ruby make) among other tools.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T164751Z" creationid="nacyot" creationdate="20140314T164702Z">
-        <seg>Jim Weirich. 루비스트로 유명하며 Rake(루비의 make)와 다른 툴들을 만든 프로그래머.</seg>
+        <seg>&lt;s0&gt;Jim Weirich&lt;/s0&gt;. 루비스트로 유명하며 Rake(루비의 make)와 다른 툴들을 만든 프로그래머.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Julian Assange founder of WikiLeaks.</seg>
+        <seg>&lt;s0&gt;Julian Assange&lt;/s0&gt; founder of WikiLeaks.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T085802Z" creationid="nacyot" creationdate="20140314T164748Z">
-        <seg>줄리언 어산지(Julian Assange) 위키 리크스(WikiLeaks) 설립자.</seg>
+        <seg>&lt;s0&gt;줄리언 어산지(Julian Assange)&lt;/s0&gt; 위키 리크스(WikiLeaks) 설립자.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Linus Torvalds creator of Linux and Git uses uEmacs, a MicroEmacs.</seg>
+        <seg>&lt;s0&gt;Linus Torvalds&lt;/s0&gt; creator of Linux and Git uses uEmacs, a &lt;a1&gt;MicroEmacs&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T085816Z" creationid="nacyot" creationdate="20140314T164606Z">
-        <seg>리누스 토발즈(Linus Torvalds). 리눅스와 깃의 아버지. uEmacs라는 마이크로 이맥스를 사용합니다.</seg>
+        <seg>&lt;s0&gt;리누스 토발즈(Linus Torvalds)&lt;/s0&gt;. 리눅스와 깃의 아버지. uEmacs라는 &lt;a1&gt;마이크로 이맥스&lt;/a1&gt;를 사용합니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Richard Stallman creator of GNU Emacs, founder of the Free Software Movement.</seg>
+        <seg>&lt;s0&gt;Richard Stallman&lt;/s0&gt; creator of GNU Emacs, founder of the Free Software Movement.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T085825Z" creationid="nacyot" creationdate="20140314T164852Z">
-        <seg>리처드 스톨만(Richard Stallman). GNU 이맥스를 만들었고 자유소프트 운동을 주도한 프로그래머.</seg>
+        <seg>&lt;s0&gt;리처드 스톨만(Richard Stallman)&lt;/s0&gt;. GNU 이맥스를 만들었고 자유소프트 운동을 주도한 프로그래머.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Yukihiro Matsumoto (Matz) created the Ruby programming language.</seg>
+        <seg>&lt;s0&gt;Yukihiro Matsumoto (Matz)&lt;/s0&gt; created the Ruby programming language.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T085705Z" creationid="nacyot" creationdate="20140314T164629Z">
-        <seg>유키히로 마츠모토 (Matz). 루비 프로그래밍 언어를 만든 프로그래머.</seg>
+        <seg>&lt;s0&gt;유키히로 마츠모토 (Matz)&lt;/s0&gt;. 루비 프로그래밍 언어를 만든 프로그래머.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>A great resource for starters is this visual guide to learning Emacs by Sacha Chua under a CC by license: How to Learn Emacs: A Hand-drawn One-pager for Beginners:    You can also check out these other visual guides:</seg>
+        <seg>A great resource for starters is this visual guide to learning Emacs by &lt;a0&gt;Sacha Chua&lt;/a0&gt; under a &lt;e1&gt;&lt;a2&gt;CC by&lt;/a2&gt; license&lt;/e1&gt;: &lt;a3&gt;How to Learn Emacs: A Hand-drawn One-pager for Beginners&lt;/a3&gt;: &lt;a4&gt; &lt;i5/&gt; &lt;/a4&gt; You can also check out these other visual guides:</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T091337Z" creationid="nacyot" creationdate="20140315T091337Z">
-        <seg>Sacha Chua는 이맥스를 배우기 위한 비주얼 가이드를 CC 라이센스로 공개하고 있습니다. 이맥스 배우기 : 손으로 그린 입문자를 위한 한 페이지 가이드(How to Learn Emacs: A Hand-drawn One-pager for Beginner).  다른 비주얼 가이드도 공개되어있습니다.</seg>
+        <seg>&lt;a0&gt;Sacha Chua&lt;/a0&gt;는 이맥스를 배우기 위한 비주얼 가이드를 &lt;e1&gt;&lt;a2&gt;CC 라이센스&lt;/a2&gt;&lt;/e1&gt;로 공개하고 있습니다. &lt;a3&gt;이맥스 배우기 : 손으로 그린 입문자를 위한 한 페이지 가이드(How to Learn Emacs: A Hand-drawn One-pager for Beginner).&lt;/a3&gt; &lt;a4&gt;&lt;i5/&gt;&lt;/a4&gt; 다른 비주얼 가이드도 공개되어있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="KO" changeid="nacyot" changedate="20140314T162601Z" creationid="nacyot" creationdate="20140314T162601Z">
+        <seg>다운로드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download
       Emacs</seg>
       </tuv>
@@ -247,10 +255,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Download Emacs for Mac OS X.</seg>
+        <seg>Download &lt;a0&gt;Emacs for Mac OS X&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T170730Z" creationid="nacyot" creationdate="20140314T170155Z">
-        <seg>Mac OS X 이맥스를 다운로드 받아주세요.</seg>
+        <seg>&lt;a0&gt;Mac OS X 이맥스&lt;/a0&gt;를 다운로드 받아주세요.</seg>
       </tuv>
     </tu>
     <tu>
@@ -329,7 +337,7 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Emacs includes a great tutorial to teach you how to use Emacs while you're using Emacs.</seg>
+        <seg>Emacs includes a great tutorial to &lt;s1&gt;teach you how to use Emacs while you're using Emacs&lt;/s1&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T090216Z" creationid="nacyot" creationdate="20140314T172237Z">
         <seg>이맥스에는 이맥스 위에서 실행할 수 있는 훌륭한 튜토리얼이 내장되어 있습니다.</seg>
@@ -337,18 +345,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Emacs is a text editor which you can customize and extend in so many ways.</seg>
+        <seg>Emacs is a &lt;s0&gt;text editor&lt;/s0&gt; which you can customize and extend in so many ways.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T083320Z" creationid="nacyot" creationdate="20140314T161859Z">
-        <seg>이맥스는 다양한 확장 기능을 지원하고 원하는대로 커스터마이징 가능한 텍스트 에디터입니다.</seg>
+        <seg>이맥스는 다양한 확장 기능을 지원하고 원하는대로 커스터마이징 가능한 &lt;s0&gt;텍스트 에디터&lt;/s0&gt;입니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Emacs is included in Mac OS X, so you can just use Terminal.app, type emacs and you're ready to roll.</seg>
+        <seg>Emacs is included in Mac OS X, so you can just use Terminal.app, type &lt;c0&gt;emacs&lt;/c0&gt; and you're ready to roll.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T171359Z" creationid="nacyot" creationdate="20140314T171359Z">
-        <seg>이맥스는 Mac OS X에 기본적으로 포함되어있습니다. Terminal.app을 실행시키고 emacs 명령어를 실행시켜주세요.</seg>
+        <seg>이맥스는 Mac OS X에 기본적으로 포함되어있습니다. Terminal.app을 실행시키고 &lt;c0&gt;emacs&lt;/c0&gt; 명령어를 실행시켜주세요.</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,18 +434,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>From there you can click on the Emacs Tutorial link with your mouse.</seg>
+        <seg>From there you can click on the &lt;e0&gt;Emacs Tutorial&lt;/e0&gt; link with your mouse.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T090239Z" creationid="nacyot" creationdate="20140314T172401Z">
-        <seg>페이지에서 마우스로 Emacs Tutorial 링크를 클릭합니다.</seg>
+        <seg>페이지에서 마우스로 &lt;e0&gt;Emacs Tutorial&lt;/e0&gt; 링크를 클릭합니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>GNU Emacs is Free Software, free as in free beer and free as in free speech.</seg>
+        <seg>GNU Emacs is &lt;s0&gt;Free Software&lt;/s0&gt;, free as in free beer and free as in free speech.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T083839Z" creationid="nacyot" creationdate="20140314T172757Z">
-        <seg>GNU Emacs는 돈을 지불할 필요도 없으며 어떠한 제약도 없는 자유 소프트웨어입니다.</seg>
+        <seg>GNU Emacs는 돈을 지불할 필요도 없으며 어떠한 제약도 없는 &lt;s0&gt;자유 소프트웨어&lt;/s0&gt;입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -500,10 +508,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>If it's not, you can use your system's package manager (apt, yum, pacman, etc.) or download Emacs from the GNU site.</seg>
+        <seg>If it's not, you can use your system's package manager (apt, yum, pacman, etc.) or &lt;a0&gt;download Emacs from the GNU site&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T085913Z" creationid="nacyot" creationdate="20140314T171644Z">
-        <seg>emacs 명령어를 찾을 수 없다면 apt, yum, pacman과 같은 시스템 패키지 매니저를 사용해 설치할 수 있습니다. GNU 사이트에서 직접 이맥스를 다운로드 받는 방법도 있습니다.</seg>
+        <seg>emacs 명령어를 찾을 수 없다면 apt, yum, pacman과 같은 시스템 패키지 매니저를 사용해 설치할 수 있습니다. &lt;a0&gt;GNU 사이트에서 직접 이맥스를 다운로드&lt;/a0&gt; 받는 방법도 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -540,10 +548,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>It was written in C and provides its own implementation of Lisp,  the language from which the Gods wrought the universe.</seg>
+        <seg>It was written in C and provides its own implementation of &lt;s1&gt;Lisp&lt;/s1&gt;, &lt;a2&gt; the language from which &lt;e3&gt;the Gods wrought the universe&lt;/e3&gt;&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T083525Z" creationid="nacyot" creationdate="20140314T175330Z">
-        <seg>이맥스는 C 언어로 만들어진 프로그램으로, 이맥스 확장을 위한 독자적인 Lisp 구현(Elisp)을 포함하고 있습니다.</seg>
+        <seg>이맥스는 C 언어로 만들어진 프로그램으로, 이맥스 확장을 위한 독자적인 &lt;s1&gt;Lisp&lt;/s1&gt; 구현(Elisp)을 포함하고 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -588,7 +596,7 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>It's not called the  self-documenting real-time display editor for nothing.</seg>
+        <seg>It's not called the &lt;e0&gt; self-documenting real-time display editor&lt;/e0&gt; for nothing.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T172216Z" creationid="nacyot" creationdate="20140314T172216Z">
         <seg></seg>
@@ -637,10 +645,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Mastering Emacs is not the goal, it's the path.</seg>
+        <seg>Mastering Emacs is not the goal, it's the path.&lt;br0&gt;</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T090126Z" creationid="nacyot" creationdate="20140314T171043Z">
-        <seg>이맥스를 정복하는 일은 목표가 아니라 과정이다.</seg>
+        <seg>이맥스를 정복하는 일은 목표가 아니라 과정이다.&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -653,10 +661,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>More info here.</seg>
+        <seg>More info &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T171017Z" creationid="nacyot" creationdate="20140314T171017Z">
-        <seg>더 자세한 정보는 이맥스 위키를 참조해주세요.</seg>
+        <seg>더 자세한 정보는 &lt;a0&gt;이맥스 위키&lt;/a0&gt;를 참조해주세요.</seg>
       </tuv>
     </tu>
     <tu>
@@ -669,10 +677,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Not only does it give the user the four essential freedoms, its architecture is built in such a way that you have the power to mold it, change it and make it comply to your computering needs.</seg>
+        <seg>Not only does it give the user the &lt;a0&gt;four essential freedoms&lt;/a0&gt;, its architecture is built in such a way that you have the power to mold it, change it and make it comply to your computering needs.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T084011Z" creationid="nacyot" creationdate="20140314T175937Z">
-        <seg>이맥스는 사용자에게 4가지 본질적 자유를 선사합니다. 이 뿐만 아니라 이맥스는 변화와 확장에 적합하게 설계되어있습니다.</seg>
+        <seg>이맥스는 사용자에게 &lt;a0&gt;4가지 본질적 자유&lt;/a0&gt;를 선사합니다. 이 뿐만 아니라 이맥스는 변화와 확장에 적합하게 설계되어있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -701,10 +709,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>See more manuals here.</seg>
+        <seg>See more manuals &lt;a1&gt;here&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T163432Z" creationid="nacyot" creationdate="20140314T163432Z">
-        <seg>더 많은 매뉴얼을 찾는다면 여기에 방문해주세요.</seg>
+        <seg>더 많은 매뉴얼을 찾는다면 &lt;a1&gt;여기&lt;/a1&gt;에 방문해주세요.</seg>
       </tuv>
     </tu>
     <tu>
@@ -741,26 +749,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The original Emacs was written by St. iGNUcius himself — Richard Stallman.</seg>
+        <seg>The original Emacs was written by &lt;e1&gt;St. iGNUcius himself&lt;/e1&gt; — &lt;s2&gt;Richard Stallman&lt;/s2&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T083851Z" creationid="nacyot" creationdate="20140314T175809Z">
-        <seg>이맥스는 St. iGNUcius — 리처드 스톨만이 처음 만들었습니다.</seg>
+        <seg>이맥스는 &lt;e1&gt;St. iGNUcius&lt;/e1&gt; — &lt;s2&gt;리처드 스톨만&lt;/s2&gt;이 처음 만들었습니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Then write help-with-tutorial and press Enter.</seg>
+        <seg>Then write &lt;c3&gt;help-with-tutorial&lt;/c3&gt; and press Enter.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T090322Z" creationid="nacyot" creationdate="20140314T172500Z">
-        <seg>help-with-tutorial라고 입력해주세요.</seg>
+        <seg>&lt;c3&gt;help-with-tutorial&lt;/c3&gt;라고 입력해주세요.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>There are more than 2,000 packages for Emacs.</seg>
+        <seg>There are &lt;a0&gt;more than 2,000&lt;/a0&gt; packages for Emacs.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140314T165127Z" creationid="nacyot" creationdate="20140314T165127Z">
-        <seg>이맥스 패키지 아카이브에는 2000개 이상의 패키지가 있습니다.</seg>
+        <seg>이맥스 패키지 아카이브에는 &lt;a0&gt;2000개 이상의&lt;/a0&gt; 패키지가 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -781,10 +789,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>There's a reason why Emacs was featured in Tron Legacy, it is sexy!</seg>
+        <seg>There's a reason why Emacs was &lt;a0&gt;featured in Tron Legacy&lt;/a0&gt;, it is sexy!</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T091535Z" creationid="nacyot" creationdate="20140314T175403Z">
-        <seg>Tron Legacy에 이맥스가 등장한 데는 다 이유가 있습니다. 섹시하니까요!</seg>
+        <seg>&lt;a0&gt;Tron Legacy에 이맥스가 등장&lt;/a0&gt;한 데는 다 이유가 있습니다. 섹시하니까요!</seg>
       </tuv>
     </tu>
     <tu>
@@ -797,10 +805,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>This is a work in progress, please help me improve it by forking it on GitHub.</seg>
+        <seg>This is a work in progress, please help me improve it by forking it &lt;a1&gt;on GitHub&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T091030Z" creationid="nacyot" creationdate="20140314T162905Z">
-        <seg>이 페이지는 작성중입니다. 문서를 개선하고자 하는 분은 Github에서 저장소를 포크해주세요!</seg>
+        <seg>이 페이지는 작성중입니다. 문서를 개선하고자 하는 분은 &lt;a1&gt;Github&lt;/a1&gt;에서 저장소를 포크해주세요!</seg>
       </tuv>
     </tu>
     <tu>
@@ -813,10 +821,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Website created by picandocodigo.</seg>
+        <seg>Website created by &lt;a0&gt;picandocodigo&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T092245Z" creationid="nacyot" creationdate="20140314T162944Z">
-        <seg>이 페이지는 picandocodigo에 의해서 제작되었으며 nacyot에 의해 한국어로 번역되었습니다.</seg>
+        <seg>이 페이지는 &lt;a0&gt;picandocodigo&lt;/a0&gt;에 의해서 제작되었으며 nacyot에 의해 한국어로 번역되었습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -855,10 +863,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>You can strip it, choose between several themes with M-x load-theme, download one from another happy Emacs user or create your own.</seg>
+        <seg>You can &lt;a0&gt;strip it&lt;/a0&gt;, choose between several themes with &lt;c1&gt;M-x load-theme&lt;/c1&gt;, download one from another happy Emacs user or create your own.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T084512Z" creationid="nacyot" creationdate="20140314T174030Z">
-        <seg>이맥스의 외관을 벗겨낼 수 있을 뿐 아니라 M-x load-theme 명령어로 다른 사람이 만든 테마를 사용할 수도 있습니다.</seg>
+        <seg>이맥스의 외관을 &lt;a0&gt;벗겨낼 수&lt;/a0&gt; 있을 뿐 아니라 &lt;c1&gt;M-x load-theme&lt;/c1&gt; 명령어로 다른 사람이 만든 테마를 사용할 수도 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -879,10 +887,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>You can download Emacs for Windows from the GNU servers.</seg>
+        <seg>You can download Emacs for Windows from &lt;a0&gt;the GNU servers&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T085927Z" creationid="nacyot" creationdate="20140314T171734Z">
-        <seg>윈도우 용 이맥스는 GNU 서버에서 내려받을 수 있습니다.</seg>
+        <seg>윈도우 용 이맥스는 &lt;a0&gt;GNU 서버&lt;/a0&gt;에서 내려받을 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -911,18 +919,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>You can install more packages with M-x list-packages from GNU ELPA, MELPA and Marmelade.</seg>
+        <seg>You can install more packages with &lt;c1&gt;M-x list-packages&lt;/c1&gt; from &lt;a2&gt;GNU ELPA&lt;/a2&gt;, &lt;a3&gt;MELPA&lt;/a3&gt; and &lt;a4&gt;Marmelade&lt;/a4&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T085609Z" creationid="nacyot" creationdate="20140314T165208Z">
-        <seg>M-x list-packages 명령어를 사용하면 GNU ELPA, MELPA, Marmelade에서 사용하고자하는 패키지를 검색하고 설치할 수 있습니다.</seg>
+        <seg>&lt;c1&gt;M-x list-packages&lt;/c1&gt; 명령어를 사용하면 &lt;a2&gt;GNU ELPA&lt;/a2&gt;, &lt;a3&gt;MELPA&lt;/a3&gt;, &lt;a4&gt;Marmelade&lt;/a4&gt;에서 사용하고자하는 패키지를 검색하고 설치할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>You can use Emacs for all of your text processing needs, internet and social network interactions, hacking, coding, managing to-do's and organizing your daily schedule, play Tetris and it can even provide you with free psychotherapy and counseling using M-x doctor.</seg>
+        <seg>You can use Emacs for all of your text processing needs, internet and social network interactions, hacking, coding, managing to-do's and organizing your daily schedule, play Tetris and it can even provide you with free psychotherapy and counseling using &lt;c0&gt;M-x doctor&lt;/c0&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="nacyot" changedate="20140315T083713Z" creationid="nacyot" creationdate="20140314T175543Z">
-        <seg>이맥스는 단순한 텍스트 에디터 기능 뿐만 아니라 소셜 네트워크, 해킹, 코딩, TODO 리스트 관리, 일정 관리, 테트리스도 가능하며, 심지어는 심리치료와 카운셀링을 위해 M-x doctor 기능도 지원하고 있습니다.</seg>
+        <seg>이맥스는 단순한 텍스트 에디터 기능 뿐만 아니라 소셜 네트워크, 해킹, 코딩, TODO 리스트 관리, 일정 관리, 테트리스도 가능하며, 심지어는 심리치료와 카운셀링을 위해 &lt;c0&gt;M-x doctor&lt;/c0&gt; 기능도 지원하고 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
