@@ -27,7 +27,4 @@ after_success:
   - git checkout gh-pages
   - git add --all .
   - git commit -m 'Update pages from naycot/omegat-emacs.sexy'
-  - git push --quiet https://$GH_TOKEN@github.com/nacyot/wiki.nacyot.com.git gh-pages
-              
-
-
+  - git push --quiet https://$GH_TOKEN@github.com/nacyot/sexy.emacs.kr.git gh-pages
