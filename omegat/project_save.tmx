@@ -873,8 +873,8 @@
       <tuv lang="EN">
         <seg>You can also use mail client, web browser, calendar, games, even edit video and images inside Emacs.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140315T085539Z" creationid="nacyot" creationdate="20140314T165108Z">
-        <seg>이맥스 안에서 클라이언트, 웹 브라우저, 캘린더, 게임을 할 수 있고, 심지어 비디오나 이미지를 편집할 수도 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T092021Z" creationid="nacyot" creationdate="20140314T165108Z">
+        <seg>이맥스 안에서 메일 클라이언트, 웹 브라우저, 캘린더, 게임을 할 수 있고, 심지어 비디오나 이미지를 편집할 수도 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -937,8 +937,8 @@
       <tuv lang="EN">
         <seg>You get syntax highlighting, automatic indentation, running code inside the editor, debugging, code browsing, version control systems integration and much more.</seg>
       </tuv>
-      <tuv lang="KO" changeid="nacyot" changedate="20140315T084859Z" creationid="nacyot" creationdate="20140314T174235Z">
-        <seg>각가의 언어에 대해서 문법 강조(Syntax highlighting), 자동 들여쓰기, 에디터 안에서 코드 실행하기, 디버깅, 코드 탐색, 버전 컨트롤 시스템을 사용할 수 있습니다.</seg>
+      <tuv lang="KO" changeid="nacyot" changedate="20140315T091643Z" creationid="nacyot" creationdate="20140314T174235Z">
+        <seg>각각의 언어에 대해서 문법 강조(Syntax highlighting), 자동 들여쓰기, 에디터 안에서 코드 실행하기, 디버깅, 코드 탐색, 버전 컨트롤 시스템을 사용할 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
