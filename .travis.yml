@@ -24,7 +24,7 @@ script:
 after_success:
   - rm -rf ./target/.git
   - cp -r ./website/.git ./target/.git
-  - rake rewrite_cname add_links add_link_to_translator
+  - rake rewrite_cname add_links add_link_to_translator add_google_analytics
   - cd target
   - git checkout gh-pages
   - git add --all .
